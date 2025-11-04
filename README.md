@@ -1,9 +1,6 @@
-# SGPA-Scrapper 📊
+# SGPA-Scrapper 
 
 This Python script scrapes SGPA data for a range of student roll numbers from a publicly available college result website.
-
-# ⚠️ Disclaimer
-This project is for **educational purposes only**. Do not use this script to scrape personal or private data without permission.
 
 # Features
 - Generates a list of roll numbers
