@@ -2,12 +2,12 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
-def gen_roll(pre='24i', start=1001, end=1081):
+def gen_roll(pre='24i', start=2001, end=2081):
     return [ f"{pre}{str(i).zfill(3)}" for i in range(start, end+1) ]
 
 
 def get_sgpa(roll_number):  
-    url = f'https://college.edu/results?roll={roll_number}'  
+    url = f'http://results.ietdavv.edu.in/DisplayStudentResult?rollno={roll_number}&typeOfStudent=Regular'  
 
     try:
         response = requests.get(url, timeout=5)
@@ -30,7 +30,7 @@ def get_sgpa(roll_number):
     return None
 
 
-def save_file(filename='sgpa.txt'):
+def save_file(filename='IT_A_sgpa:.txt'):
     rolls = gen_roll()
     with open(filename, 'w') as file:
         file.write('RollNumber -> SGPA\n')  
