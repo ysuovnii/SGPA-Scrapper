@@ -1,46 +1,48 @@
 import requests
 from bs4 import BeautifulSoup
-import re
 
-def gen_roll(pre='24i', start=2001, end=2081):
-    return [ f"{pre}{str(i).zfill(3)}" for i in range(start, end+1) ]
+branchList = ['b', 'c', 'e', 'i', 'm', 't', 'v']
+sem = 2
+filename = f'Sem_{sem}_Result.txt'
 
+students = []
 
-def get_sgpa(roll_number):  
-    url = f'http://results.ietdavv.edu.in/DisplayStudentResult?rollno={roll_number}&typeOfStudent=Regular'  
+roll_ranges = [(sem*1000+1, sem*1000+99), (sem*1000+101, sem*1000+199)]
 
-    try:
-        response = requests.get(url, timeout=5)
-        if response.status_code != 200:
-            return None  
+for branch in branchList:
+    for start, end in roll_ranges:
+        for roll in range(start, end):
+            url = f"http://results.ietdavv.edu.in/DisplayStudentResult?rollno=24{branch}{roll}&typeOfStudent=Regular"
 
-        soup = BeautifulSoup(response.content, 'html.parser')
+            response = requests.get(url)
+            data = response.text
+            soup = BeautifulSoup(data, 'html.parser')
 
-        match = soup.find(string=re.compile('SGPA', re.IGNORECASE))
-        if match:
-            sgpa_td = match.find_parent('td')
-            value_td = sgpa_td.find_next_sibling('td')
-            if value_td:
-                return value_td.get_text(strip=True)
+            nameTag = soup.find(text="Student Name")
+            sgpaTag = soup.find(text='SGPA')
+            rollNumberTag = soup.find(text='Roll Number')
 
-    except Exception as e:
-        print(f"Error for {roll_number}: {e}")
-        return None
-
-    return None
-
-
-def save_file(filename='IT_A_sgpa:.txt'):
-    rolls = gen_roll()
-    with open(filename, 'w') as file:
-        file.write('RollNumber -> SGPA\n')  
-        for roll in rolls:
-            sgpa = get_sgpa(roll)
-            if sgpa:
-                print(f"{roll} -> {sgpa}")
-                file.write(f"{roll} -> {sgpa}\n")
+            if nameTag and sgpaTag and rollNumberTag:
+                name = nameTag.find_next('td').text.strip()
+                sgpa = float(sgpaTag.find_next('td').text.strip())
+                rollNumber = rollNumberTag.find_next('td').text.strip()
+                students.append({"roll_name": f"{rollNumber} {name}", "sgpa": sgpa})
+                print(f"Saved: {rollNumber} {name} : {sgpa}")
             else:
-                print(f"{roll} -> SGPA not found")
-                file.write(f"{roll} -> Not Found\n")
+                print(f"Result not found for roll: 24{branch}{roll}")
 
-save_file()
+students_sorted = sorted(students, key=lambda x: x['sgpa'], reverse=True)
+
+rank = 1
+prev_sgpa = None
+for i, student in enumerate(students_sorted):
+    if prev_sgpa is None or student['sgpa'] < prev_sgpa:
+        rank = i + 1
+    student['rank'] = rank
+    prev_sgpa = student['sgpa']
+
+with open(filename, "w") as f:
+    for student in students_sorted:
+        f.write(f"{student['rank']}. {student['roll_name']} : {student['sgpa']}\n")
+
+print("File updated with sorted ranks!")
