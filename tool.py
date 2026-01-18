@@ -3,11 +3,19 @@ from bs4 import BeautifulSoup
 import csv
 import time 
 
+session = requests.Session()
+session.headers.update({
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/143.0.0.0 Safari/537.36"
+})
+
+
 student_pass = []
 student_fail = []
 
 branch_list = ['c', 'i', 'b', 't', 'e', 'm', 'v']
-sem = 1
+sem = 2
 roll_range = [(sem*1000+1, sem*1000+99), (sem*1001+101, sem*1000+199)]
 
 branch_map = {
@@ -20,43 +28,48 @@ branch_map = {
     'v': 'Civil',
 }
 
-def fetch(URL, branch):
+def fetch(URL, branch, retries):
+    for attempt in range(1, retries+1):
+        try:
+            res = session.get(URL, timeout=5)
+            soup = BeautifulSoup(res.text, 'html.parser')
 
-    try:
-        res = requests.get(URL, timeout=5)
-        soup = BeautifulSoup(res.text, 'html.parser')
+            nameTag = soup.find(string="Student Name")
+            rollTag = soup.find(string="Roll Number")
+            verdictTag = soup.find(string="Result")
+            cgTag = soup.find(string="SGPA")
 
-        nameTag = soup.find(string="Student Name")
-        rollTag = soup.find(string="Roll Number")
-        verdictTag = soup.find(string="Result")
-        cgTag = soup.find(string="SGPA")
+            if nameTag and rollTag and verdictTag and cgTag:
+                name = nameTag.find_next('td').text.strip()
+                roll = rollTag.find_next('td').text.strip()
+                verdict = verdictTag.find_next('td').text.strip()
+                cg = float(cgTag.find_next('td').text.strip())
 
-        if nameTag and rollTag and verdictTag and cgTag:
-            name = nameTag.find_next('td').text.strip()
-            roll = rollTag.find_next('td').text.strip()
-            verdict = verdictTag.find_next('td').text.strip()
-            cg = float(cgTag.find_next('td').text.strip())
+                record = {
+                    "branch" : branch, 
+                    "name": name,
+                    "roll": roll,
+                    "verdict": verdict,
+                    "cg": cg
+                }
 
-            record = {
-                "branch" : branch, 
-                "name": name,
-                "roll": roll,
-                "verdict": verdict,
-                "cg": cg
-            }
+                if verdict == "Fail":
+                    student_fail.append(record)
+                else :
+                    student_pass.append(record)
 
-            if verdict == "Fail":
-                student_fail.append(record)
-            else :
-                student_pass.append(record)
-            
-            # print(record)
+                return  
 
-    except requests.exceptions.Timeout:
-        print(f"Timeout: {URL}")
+        except requests.exceptions.Timeout:
+            print(f"Timeout attempt {attempt}: {URL}")
+            time.sleep(1)
 
-    except Exception as e:
-        print(f"Error: {e}")
+        except Exception as e:
+            print(f"Error: {e} | URL: {URL}")
+            break  
+
+    print(f"Failed to fetch after {retries} attempts: {URL}")
+
 
 
     
@@ -69,7 +82,7 @@ def generateURL():
             for roll in range(start, end):
                 url = f"https://results.ietdavv.edu.in/DisplayStudentResult?rollno=24{branch}{roll}&typeOfStudent=Regular"
 
-                fetch(url, branchName)
+                fetch(url, branchName, 3)
                 done += 1
                 print(f"[{done}/{total}] fetched", end="\r")
                 time.sleep(0.3)
