@@ -5,5 +5,5 @@ This Python script scrapes SGPA data for a range of student roll numbers from a 
 # Features
 - Generates a list of roll numbers
 - Fetches SGPA from each student's result page
-- Saves data in `sem_{sem}_result.txt`
+- Saves data in `Sem_{sem}_Result.csv`
 
