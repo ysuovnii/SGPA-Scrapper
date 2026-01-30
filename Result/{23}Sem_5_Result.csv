@@ -1,0 +1,600 @@
+rank,branch,name,roll,cg,verdict
+1,Information Technology,SIDDHI NAGAR,23I5186,9.83,Pass
+2,Computer Science,HRISHIKA JAIN,23C5130,9.8,Pass
+3,Computer Science,ABHAY KUMAR PANDEY,23C5003,9.7,Pass
+3,Electronics and Telecommunication,KRISH RAGHUWANSHI,23T5029,9.7,Pass
+3,Mechanical,SURABHI SINGH,23M5070,9.7,Pass
+6,Computer Science,ACHALA NAHAR,23C5005,9.67,Pass
+6,Information Technology,PURVANSHI PATIDAR,23I5055,9.67,Pass
+6,Information Technology,VISHESH JAIN,23I5077,9.67,Pass
+9,Electronics and Telecommunication,UDAY GANDHI,23T5072,9.63,Pass
+10,Computer Science,ADITYA JAIN,23C5009,9.6,Pass
+10,Computer Science,KRISHNA RAGHUWANSHI,23C5041,9.6,Pass
+10,Computer Science,SHAILI CHOUDHARY,23C5165,9.6,Pass
+10,Information Technology,DHARMENDRA GUPTA,23I5018,9.6,Pass
+14,Computer Science,TANYA KESHARWANI,23C5074,9.57,Pass
+14,Information Technology,MANSHAA KAKANI,23I5041,9.57,Pass
+14,Civil,MAHAK RATHOD,23V5035,9.57,Pass
+14,Civil,SHIVA SINGH KUSHWAH,23V5068,9.57,Pass
+18,Computer Science,DARPAN PORWAL,23C5028,9.53,Pass
+19,Computer Science,KITIKSHA CHAKRAWARTI,23C5040,9.5,Pass
+19,Electronics and Telecommunication,SHRESHTHA YADAV,23T5161,9.5,Pass
+21,Computer Science,TRISHA PATIDAR,23C5076,9.47,Pass
+21,Computer Science,MAHI DUBEY,23C5138,9.47,Pass
+21,Information Technology,ATHARVA UPASANI,23I5011,9.47,Pass
+21,Electronics and Instrumentation,SHREYA GUPTA,23E5063,9.47,Pass
+25,Computer Science,SARTHAK VYAS,23C5062,9.43,Pass
+25,Information Technology,MANASVI MAHAJAN,23I5040,9.43,Pass
+25,Electronics and Telecommunication,KUNAL BORADE,23T5131,9.43,Pass
+28,Computer Science,METRI JAIN,23C5141,9.4,Pass
+29,Computer Science,AKANSHA GUPTA,23C5011,9.37,Pass
+29,Computer Science,CHANDRASHREE RAWAT,23C5026,9.37,Pass
+29,Computer Science,HIMANSHU KHARE,23C5035,9.37,Pass
+29,Computer Science,RIYA AHIRWAR,23C5057,9.37,Pass
+29,Information Technology,NANDINI GIRI,23I5150,9.37,Pass
+29,Information Technology,SAMARTH MANGAL,23I5161,9.37,Pass
+35,Computer Science,ANSHIKA KANSAL,23C5085,9.33,Pass
+35,Computer Science,SHIVANI JAISWAL,23C5087,9.33,Pass
+35,Information Technology,VARUN DADLANI,23I5076,9.33,Pass
+35,Civil,DAAN VARGHESE,23V5017,9.33,Pass
+35,Civil,SAMIKSHA DUBEY,23V5061,9.33,Pass
+40,Computer Science,KUNAL HEMNANI,23C5043,9.3,Pass
+40,Computer Science,SANIYA RAHEJA,23C5164,9.3,Pass
+40,Electronics and Telecommunication,PRIYANSHI SONI,23T5049,9.3,Pass
+43,Computer Science,TANISH JAIN,23C5071,9.27,Pass
+43,Computer Science,RUDRAKSH GUPTA,23C5161,9.27,Pass
+43,Computer Science,SHUBH JAIN,23C5167,9.27,Pass
+46,Electronics and Instrumentation,SHRUTI PRAJAPATI,23E5064,9.23,Pass
+47,Computer Science,SIDDHARTH SHANKAR VERMA,23C5168,9.2,Pass
+47,Information Technology,DIKSHA JAIN,23I5019,9.2,Pass
+47,Electronics and Telecommunication,AKSHAT CHOUDHARY,23T5008,9.2,Pass
+47,Electronics and Instrumentation,SWET TRIPATHI,23E5073,9.2,Pass
+51,Computer Science,AVADHI JAIN,23C5021,9.17,Pass
+51,Computer Science,RAJAT GOYAL,23C5155,9.17,Pass
+51,Electronics and Telecommunication,SUHANI SAXENA,23T5068,9.17,Pass
+51,Civil,DIWAKAR LODHI,23V5022,9.17,Pass
+55,Computer Science,RAUNAK JAIN,23C5055,9.13,Pass
+55,Computer Science,SAMAR JOSHI,23C5060,9.13,Pass
+55,Computer Science,DIVYANSH BHARGAVA,23C5124,9.13,Pass
+55,Information Technology,ESHIKA BHATIA,23I5130,9.13,Pass
+55,Information Technology,SAMRIDDHI SAHU,23I5162,9.13,Pass
+55,Electronics and Telecommunication,ALISHA BIKHANI,23T5009,9.13,Pass
+55,Electronics and Instrumentation,YASH SHARMA,23E5089,9.13,Pass
+62,Computer Science,AKSHAT RATHORE,23C5014,9.1,Pass
+62,Computer Science,YASHU SHAKYA,23C5180,9.1,Pass
+62,Electronics and Telecommunication,AVIRISHU PETWAL,23T5085,9.1,Pass
+65,Computer Science,PAWANI KHARE,23C5052,9.07,Pass
+65,Computer Science,SHASHANK TRIVEDI,23C5166,9.07,Pass
+65,Electronics and Telecommunication,PARNAVI JAIN,23T5140,9.07,Pass
+65,Civil,JITANSHI KHUTE,23V5030,9.07,Pass
+69,Computer Science,DEEPENDRA KUMAR,23C5029,9.03,Pass
+69,Computer Science,NABEELA FATIMA KHAN,23C5049,9.03,Pass
+69,Computer Science,UJJWAL UPADHYAY,23C5077,9.03,Pass
+69,Information Technology,ANSHIKA GUPTA,23I5114,9.03,Pass
+69,Civil,BHAVANI RAJPUT,23V5015,9.03,Pass
+74,Computer Science,MAHI JAIN,23C5139,9.0,Pass
+74,Electronics and Telecommunication,PRAKHAR AGRAWAL,23T5046,9.0,Pass
+74,Electronics and Instrumentation,ANANY JAIN,23E5085,9.0,Pass
+74,Civil,JYOTIRADITYA SHUKLA,23V5031,9.0,Pass
+78,Computer Science,HARSH GUPTA,23C5034,8.97,Pass
+78,Computer Science,NEELESH KUMAR JATAV,23C5145,8.97,Pass
+78,Information Technology,AYUSH GUPTA,23I5014,8.97,Pass
+78,Mechanical,MRADUL BISEN,23M5040,8.97,Pass
+82,Computer Science,KRISHNA YADAV,23C5042,8.93,Pass
+82,Computer Science,OBAID ABDULLAH,23C5051,8.93,Pass
+82,Computer Science,RAHUL JAIN,23C5153,8.93,Pass
+82,Computer Science,VASU BHATT,23C5174,8.93,Pass
+82,Information Technology,SAATVIK KOSTA,23I5061,8.93,Pass
+82,Information Technology,ASHISH PAWAR,23I5120,8.93,Pass
+82,Information Technology,SHOBHIT JAIN,23I5165,8.93,Pass
+82,Electronics and Telecommunication,SIDDHARTH SINGH DANGI,23T5162,8.93,Pass
+90,Computer Science,MOHIT CHOUHAN,23C5048,8.9,Pass
+90,Computer Science,RITIK SINGH,23C5056,8.9,Pass
+90,Information Technology,JAYRAM DANGI,23I5027,8.9,Pass
+90,Electronics and Telecommunication,ADITYA TRIVEDI,23T5007,8.9,Pass
+94,Computer Science,ASHISH DELMIYA,23C5018,8.87,Pass
+94,Computer Science,HITAISHEEE ENGLA,23C5036,8.87,Pass
+94,Computer Science,ABHIJEET SHUKLA,23C5107,8.87,Pass
+94,Computer Science,ASHUTOSH CHATURVEDI,23C5117,8.87,Pass
+94,Computer Science,SOUNDARIYA GAYAKWAD,23C5169,8.87,Pass
+94,Information Technology,SHRAVIKA JAIN,23I5166,8.87,Pass
+94,Information Technology,SHUBHAM KUMAR JHA,23I5167,8.87,Pass
+94,Information Technology,YASHASVI SHARMA,23I5178,8.87,Pass
+102,Information Technology,ARUSH DIXIT,23I5118,8.83,Pass
+102,Electronics and Instrumentation,SATYAM JAIN,23E5055,8.83,Pass
+104,Computer Science,ANSHIKA DHURVE,23C5016,8.8,Pass
+104,Computer Science,TANUPRIYA CHOUDHARY,23C5073,8.8,Pass
+104,Computer Science,ARPIT CHOUHAN,23C5115,8.8,Pass
+104,Computer Science,KRISH PANDEY,23C5134,8.8,Pass
+104,Information Technology,SHIVANI KURMI,23I5066,8.8,Pass
+104,Information Technology,VRUSHALI JAIN,23I5078,8.8,Pass
+104,Information Technology,KANISHK BAGZAI,23I5140,8.8,Pass
+104,Electronics and Telecommunication,SAKSHI YADAV,23T5059,8.8,Pass
+104,Electronics and Telecommunication,MANVI SHAH,23T5135,8.8,Pass
+104,Electronics and Telecommunication,VINAY BHADVIYA,23T5172,8.8,Pass
+114,Computer Science,ADIL PATEL,23C5006,8.77,Pass
+114,Computer Science,ARYAN GUPTA,23C5017,8.77,Pass
+114,Computer Science,BHASKARAN GOUR,23C5025,8.77,Pass
+114,Computer Science,ANIMESH KHARE,23C5109,8.77,Pass
+114,Information Technology,TANIKSHA PATIDAR,23I5173,8.77,Pass
+114,Electronics and Telecommunication,PRIYANSHU JHA,23T5147,8.77,Pass
+120,Computer Science,MANAS YADAV,23C5046,8.73,Pass
+120,Computer Science,BHAVESH SINGHAL,23C5120,8.73,Pass
+120,Computer Science,VIPUL JAISWAL,23C5176,8.73,Pass
+123,Computer Science,KHUSHI SONI,23C5039,8.7,Pass
+123,Computer Science,GEHNA JHAMELE,23C5125,8.7,Pass
+123,Information Technology,ATREE VERMA,23I5012,8.7,Pass
+126,Computer Science,KSHITIZ KUMAR,23C5136,8.67,Pass
+126,Computer Science,MANAS BHALERAO,23C5140,8.67,Pass
+126,Information Technology,AKSHAR MISHRA,23I5004,8.67,Pass
+126,Information Technology,MAHENDRA PRATAP SINGH,23I5039,8.67,Pass
+126,Information Technology,RAGHAV AGRAWAL,23I5056,8.67,Pass
+126,Electronics and Telecommunication,MOKSHIT THAKKAR,23T5038,8.67,Pass
+126,Electronics and Instrumentation,NAVEEN KUSHWAHA,23E5035,8.67,Pass
+133,Computer Science,AASIM ALI,23C5002,8.63,Pass
+133,Computer Science,AKSHAT GUJRATI,23C5013,8.63,Pass
+133,Computer Science,AYUSH TAGARE,23C5023,8.63,Pass
+133,Computer Science,MOHIT AGRAWAL,23C5142,8.63,Pass
+133,Computer Science,TUSHAR JAIN,23C5172,8.63,Pass
+133,Information Technology,PRASHANT BANSAL,23I5053,8.63,Pass
+133,Information Technology,SHIRSHAK DIXIT,23I5163,8.63,Pass
+133,Civil,ANUJ SINGH RAI,23V5012,8.63,Pass
+133,Civil,BHUPESH DHANTOLE,23V5016,8.63,Pass
+133,Civil,ISHAN HALWAI,23V5029,8.63,Pass
+133,Civil,SHUBHI WATHRE,23V5071,8.63,Pass
+144,Computer Science,KUSHAGRA TIWARI,23C5045,8.6,Pass
+144,Computer Science,MOKSH JAIN,23C5143,8.6,Pass
+144,Information Technology,RAUNAK JAYASWAL,23I5058,8.6,Pass
+144,Information Technology,KANISHKA JOSHI,23I5141,8.6,Pass
+144,Electronics and Telecommunication,AASTHA DUBEY,23T5004,8.6,Pass
+144,Electronics and Telecommunication,METHLI SINGH,23T5037,8.6,Pass
+144,Electronics and Telecommunication,AYUSH SALVE,23T5113,8.6,Pass
+144,Electronics and Instrumentation,SHABBIR MHOWWALA,23E5058,8.6,Pass
+144,Civil,PANKAJ PANDEY,23V5045,8.6,Pass
+144,Civil,PRACHI PANDEY,23V5047,8.6,Pass
+154,Computer Science,AKSHAT SHRIVASTAVA,23C5015,8.57,Pass
+154,Computer Science,RAMKRISHNA GUPTA,23C5054,8.57,Pass
+154,Information Technology,SANDEEP PARMAR,23I5062,8.57,Pass
+154,Information Technology,AMAN DWIVEDI,23I5107,8.57,Pass
+154,Information Technology,YASH JAIN,23I5187,8.57,Pass
+154,Electronics and Telecommunication,RAHUL JAISWAL,23T5051,8.57,Pass
+154,Electronics and Instrumentation,RACHIT GUPTA,23E5047,8.57,Pass
+161,Information Technology,SOUMYA PATEL,23I5169,8.53,Pass
+162,Computer Science,RAJ ARYAN RATHORE,23C5154,8.5,Pass
+162,Information Technology,NITIN TIWARI,23I5048,8.5,Pass
+162,Information Technology,YASH UDASI,23I5177,8.5,Pass
+162,Electronics and Instrumentation,SAUBHAGYA BARVE,23E5056,8.5,Pass
+166,Computer Science,NISHIKA RATHORE,23C5149,8.47,Pass
+166,Computer Science,SANIDHYA KACHHAWA,23C5163,8.47,Pass
+166,Computer Science,TUSHAR KOTHARI,23C5173,8.47,Pass
+166,Information Technology,NIMISH AWADHIYA,23I5154,8.47,Pass
+166,Information Technology,SAKSHAM SAHU,23I5160,8.47,Pass
+166,Electronics and Telecommunication,ANSHIKA RAI,23T5107,8.47,Pass
+166,Electronics and Telecommunication,RADHIKA PRAJAPATI,23T5150,8.47,Pass
+166,Electronics and Instrumentation,SOURABH PATEL,23E5069,8.47,Pass
+166,Mechanical,RAKSHIT PANDEY,23M5059,8.47,Pass
+166,Civil,RAHUL PATLE,23V5052,8.47,Pass
+176,Electronics and Telecommunication,ADITYA GUPTA,23T5006,8.43,Pass
+176,Electronics and Telecommunication,VEDANT JUMLE,23T5075,8.43,Pass
+176,Electronics and Instrumentation,SRIJAN SINGH,23E5070,8.43,Pass
+176,Civil,VISHWAJEET CHHANTA,23V5077,8.43,Pass
+180,Computer Science,ANKIT PAL,23C5110,8.4,Pass
+180,Information Technology,KUMARI SUSHMITA DHURWEY,23I5035,8.4,Pass
+180,Electronics and Telecommunication,KUSHAGRA JOHRA,23T5178,8.4,Pass
+183,Computer Science,TANAY GUPTA,23C5070,8.37,Pass
+183,Information Technology,SANKET NEEKHRA,23I5063,8.37,Pass
+183,Information Technology,SHREYANSH GUPTA,23I5067,8.37,Pass
+183,Information Technology,MANSI SHAKYA,23I5147,8.37,Pass
+183,Electronics and Telecommunication,PRANJAL AGRAWAL,23T5144,8.37,Pass
+183,Electronics and Instrumentation,ADITI SHARMA,23E5083,8.37,Pass
+183,Electronics and Instrumentation,ADITYA SAHU,23E5084,8.37,Pass
+183,Civil,VIVEK CHOUREY,23V5078,8.37,Pass
+191,Computer Science,AAKASH KURMI,23C5001,8.33,Pass
+191,Computer Science,KASHISH JAKHODIYA,23C5132,8.33,Pass
+191,Computer Science,PRANSHU WAGH,23C5151,8.33,Pass
+191,Information Technology,AYUSH GOYAL,23I5122,8.33,Pass
+191,Information Technology,DEVANSH TRIPATHI,23I5129,8.33,Pass
+196,Computer Science,ABHIJEET JUNWAL,23C5004,8.3,Pass
+196,Computer Science,GAUTAM KAPOOR,23C5032,8.3,Pass
+196,Information Technology,SOMY GARG,23I5070,8.3,Pass
+196,Information Technology,JUHI MATHUR,23I5139,8.3,Pass
+196,Information Technology,OM ASATI,23I5155,8.3,Pass
+196,Electronics and Instrumentation,SHIVANG TOMAR,23E5062,8.3,Pass
+202,Information Technology,PEEYUSH KUMAR HANUMANTE,23I5052,8.27,Pass
+202,Information Technology,LUCKYRAJ BAGHEL,23I5179,8.27,Pass
+202,Electronics and Telecommunication,ATHRVA SHARMA,23T5017,8.27,Pass
+202,Electronics and Telecommunication,ATHARAV TRIPATHI,23T5112,8.27,Pass
+202,Electronics and Instrumentation,STUTI PATEL,23E5071,8.27,Pass
+207,Computer Science,ATISHAY PATODI,23C5118,8.23,Pass
+207,Information Technology,AKSHAT SHARMA,23I5005,8.23,Pass
+207,Information Technology,ARYAN SINGH,23I5008,8.23,Pass
+207,Mechanical,PREM MAHOUR,23M5056,8.23,Pass
+211,Computer Science,BHARTI SOLANKI,23C5024,8.2,Pass
+211,Computer Science,ANSHUMAN KUMAR,23C5112,8.2,Pass
+211,Information Technology,SUNNITESHA SHARMA,23I5072,8.2,Pass
+211,Electronics and Instrumentation,KAREENA PATIDAR,23E5025,8.2,Pass
+211,Electronics and Instrumentation,RAM JOSHI,23E5049,8.2,Pass
+216,Information Technology,BHUMI KHARYA,23I5016,8.17,Pass
+216,Information Technology,DIVYANSH MANDRAI,23I5085,8.17,Pass
+216,Information Technology,ANANT NAHAR,23I5110,8.17,Pass
+216,Electronics and Telecommunication,SAKSHAM SHRIVASTAVA,23T5058,8.17,Pass
+216,Electronics and Telecommunication,ARBAJ PATEL,23T5109,8.17,Pass
+216,Electronics and Instrumentation,SAURAV SINGH,23E5057,8.17,Pass
+216,Mechanical,RASIKA TIWARI,23M5060,8.17,Pass
+216,Civil,HIMANSHI SHARMA,23V5080,8.17,Pass
+224,Computer Science,ROHIT SINGH RAJPUT,23C5159,8.13,Pass
+224,Information Technology,DEVANSH GUPTA,23I5017,8.13,Pass
+224,Information Technology,SWETA AHIRWAR,23I5073,8.13,Pass
+227,Information Technology,ANKIT RAIDAS,23I5007,8.1,Pass
+227,Electronics and Instrumentation,MITANSHU JANI,23E5033,8.1,Pass
+229,Information Technology,SUHANEE AHIRWAR,23I5071,8.07,Pass
+229,Electronics and Instrumentation,SHASHANK DWIVEDI,23E5059,8.07,Pass
+229,Electronics and Instrumentation,SNEHA CHOUREY,23E5068,8.07,Pass
+229,Electronics and Instrumentation,SHRADDHA RAJAK,23E5087,8.07,Pass
+229,Civil,DEVASHISH SINGH RANAWAT,23V5018,8.07,Pass
+234,Computer Science,RUDRA SOMANI,23C5160,8.03,Pass
+234,Information Technology,DRON NEMA,23I5009,8.03,Pass
+234,Electronics and Telecommunication,PARTH PATIDAR,23T5141,8.03,Pass
+234,Electronics and Instrumentation,PRIYANSHI PATEL,23E5086,8.03,Pass
+234,Mechanical,NIDHI PATEL,23M5045,8.03,Pass
+234,Civil,ANKIT KUMAR GUPTA,23V5009,8.03,Pass
+234,Civil,NAINSEE AHIRWAR,23V5040,8.03,Pass
+234,Civil,NANDINI CHOUHAN,23V5041,8.03,Pass
+234,Civil,SERENA MANDLOI,23V5066,8.03,Pass
+243,Computer Science,DHRUV JAIN,23C5031,8.0,Pass
+243,Computer Science,KANAK BARANGE,23C5131,8.0,Pass
+243,Information Technology,HARSH KOTHARI,23I5023,8.0,Pass
+243,Information Technology,PALAK SHARMA,23I5049,8.0,Pass
+243,Information Technology,SARTHAK CHOUHAN,23I5065,8.0,Pass
+243,Information Technology,ANMOL DHANOTIYA,23I5113,8.0,Pass
+243,Electronics and Telecommunication,LAKHBEER RATHORE,23T5033,8.0,Pass
+243,Mechanical,NIKET KUMAR,23M5046,8.0,Pass
+251,Computer Science,VIKAS DUDVA,23C5080,7.97,Pass
+251,Information Technology,NIKHIL SONI,23I5046,7.97,Pass
+251,Information Technology,RIYA RAWAT,23I5060,7.97,Pass
+251,Information Technology,BHASKAR SHARMA,23I5123,7.97,Pass
+255,Information Technology,NIKHIL KUMAR TIKRIYA,23I5086,7.93,Pass
+255,Information Technology,KESHAV PORWAL,23I5143,7.93,Pass
+255,Information Technology,YADVENDRA SINGH CHOUHAN,23I5176,7.93,Pass
+255,Electronics and Instrumentation,LAKSHIT PATEL,23E5028,7.93,Pass
+259,Computer Science,PIYUSH RAWAT,23C5053,7.9,Pass
+259,Information Technology,NAMAN MUKATI,23I5043,7.9,Pass
+259,Information Technology,CHANCHAL NARRE,23I5125,7.9,Pass
+259,Mechanical,AMAN KUSHWAHA,23M5007,7.9,Pass
+263,Computer Science,SUMIT KUMAR RAWAT,23C5068,7.87,Pass
+263,Information Technology,ANUJ PRATAP SINGH,23I5116,7.87,Pass
+263,Electronics and Telecommunication,HARSH MALVIYA,23T5024,7.87,Pass
+263,Electronics and Instrumentation,PIYUSH BAIRAGI,23E5042,7.87,Pass
+267,Computer Science,VARUN DUBE,23C5079,7.83,Pass
+267,Computer Science,HIMANSHU SHARMA,23C5129,7.83,Pass
+267,Information Technology,HARI OM PANDEY,23I5134,7.83,Pass
+267,Information Technology,HARSH BHADORIYA,23I5136,7.83,Pass
+267,Electronics and Telecommunication,DIYA ASATI,23T5023,7.83,Pass
+267,Electronics and Telecommunication,ISHITA JAIN,23T5127,7.83,Pass
+267,Electronics and Instrumentation,AMRATANSHU DUBEY,23E5006,7.83,Pass
+274,Computer Science,NANDA CHAKRAWORTY,23C5144,7.8,Pass
+274,Electronics and Telecommunication,SUFIYAAN SHAIKH,23T5164,7.8,Pass
+274,Mechanical,NAYAN RATHORE,23M5044,7.8,Pass
+274,Civil,LAKSHYA RUPLANI,23V5033,7.8,Pass
+278,Computer Science,SUBHASH,23C5067,7.77,Pass
+278,Computer Science,DEVRAJ MASANIYA,23C5122,7.77,Pass
+278,Information Technology,KUSHAGRA AGRAWAL,23I5036,7.77,Pass
+278,Information Technology,SANJAY AHIRWAR,23I5185,7.77,Pass
+278,Electronics and Telecommunication,PEEHU BAGDE,23T5045,7.77,Pass
+278,Electronics and Telecommunication,SHASHWAT JAISWAL,23T5064,7.77,Pass
+278,Electronics and Instrumentation,HRITIK SINGH,23E5022,7.77,Pass
+278,Electronics and Instrumentation,SACHIN GAYAKWAD,23E5051,7.77,Pass
+286,Information Technology,AKRITI AGRAWAL,23I5003,7.73,Pass
+286,Information Technology,KHUSHI JALANDRA,23I5031,7.73,Pass
+288,Computer Science,SANATAN KANKAR,23C5061,7.7,Pass
+288,Electronics and Telecommunication,KUSHAGRA SATLE,23T5032,7.7,Pass
+288,Electronics and Telecommunication,SUBODH CHOUBEY,23T5163,7.7,Pass
+288,Electronics and Instrumentation,PRIYANSHU SHARMA,23E5046,7.7,Pass
+292,Information Technology,SNEHASHISH AGWEKAR,23I5069,7.67,Pass
+292,Electronics and Telecommunication,PAVITRA DASHORE,23T5044,7.67,Pass
+292,Electronics and Telecommunication,SARTHAK BANSAL,23T5157,7.67,Pass
+292,Electronics and Instrumentation,ANUSHKA AGRAWAL,23E5010,7.67,Pass
+292,Electronics and Instrumentation,KAUSHAL DHAKAD,23E5026,7.67,Pass
+297,Computer Science,SHIVANSHU KHODE,23C5063,7.63,Pass
+297,Information Technology,HIMANSHU PRIYADARSHI AHIRWAR,23I5026,7.63,Pass
+297,Information Technology,YASHASVI SHARMA,23I5079,7.63,Pass
+297,Information Technology,VIDHAN AGRAWAL,23I5174,7.63,Pass
+297,Electronics and Telecommunication,AYUSH JAIN,23T5018,7.63,Pass
+297,Electronics and Telecommunication,SOMYA BHAWSAR,23T5066,7.63,Pass
+297,Electronics and Telecommunication,NIKUNJ MEENA,23T5139,7.63,Pass
+297,Mechanical,PAWAN PANDEY,23M5051,7.63,Pass
+297,Civil,HARSHAL VAISHNAV,23V5026,7.63,Pass
+306,Computer Science,ARBAB MUJTABA DAR,23C5114,7.6,Pass
+306,Electronics and Instrumentation,ABHAY KUMAR,23E5003,7.6,Pass
+308,Computer Science,ADITYA DANGI,23C5007,7.53,Pass
+308,Computer Science,ADITYA GANGRADE,23C5008,7.53,Pass
+308,Computer Science,TARUN PRATAP SINGH MARAVI,23C5075,7.53,Pass
+308,Computer Science,VISHAL MANDLOI,23C5177,7.53,Pass
+308,Information Technology,AARTI NARGANWA,23I5001,7.53,Pass
+308,Electronics and Telecommunication,MAHI KHANDELWAL,23T5134,7.53,Pass
+308,Electronics and Instrumentation,MAYANK PARADKAR,23E5032,7.53,Pass
+315,Computer Science,SRIJAN JAISWAL,23C5066,7.5,Pass
+315,Computer Science,ANKIT UIKEY,23C5111,7.5,Pass
+315,Computer Science,RAVI SOLANKI,23C5158,7.5,Pass
+315,Information Technology,HARDIK VASKLE,23I5133,7.5,Pass
+315,Information Technology,HARIOM PATIDAR,23I5135,7.5,Pass
+320,Mechanical,PRADDUM TIWARI,23M5053,7.47,Pass
+320,Civil,MANISH SINGH,23V5036,7.47,Pass
+322,Civil,DEVENDRA LODHI,23V5019,7.43,Pass
+323,Computer Science,NIKHIL RAJ,23C5050,7.4,Pass
+323,Electronics and Instrumentation,ANSH GARG,23E5007,7.4,Pass
+323,Mechanical,YASH MALOTIYA,23M5076,7.4,Pass
+326,Computer Science,KUNAL KUSHWAH,23C5137,7.37,Pass
+326,Information Technology,AMAN AJMERI,23I5006,7.37,Pass
+326,Information Technology,RITIK NIGWAL,23I5159,7.37,Pass
+326,Electronics and Telecommunication,NIKHIL SINGH RATHORE,23T5042,7.37,Pass
+326,Electronics and Telecommunication,VAIBHAV UPADHYAY,23T5074,7.37,Pass
+326,Electronics and Instrumentation,JAY KHATRI,23E5024,7.37,Pass
+332,Computer Science,SHUBH MODI,23C5065,7.33,Pass
+332,Information Technology,ASHUTOSH CHANDORIYA,23I5121,7.33,Pass
+332,Information Technology,DEEP MOYE,23I5128,7.33,Pass
+332,Information Technology,KHUSHI BARKUR,23I5144,7.33,Pass
+332,Electronics and Telecommunication,TAPAS TIWARI,23T5071,7.33,Pass
+332,Electronics and Telecommunication,SAMARTH YADAV,23T5156,7.33,Pass
+332,Electronics and Telecommunication,ADITYA PATEL,23T5185,7.33,Pass
+339,Information Technology,AKANKSHA SINGH,23I5106,7.3,Pass
+339,Electronics and Telecommunication,MONISHA VERMA,23T5039,7.3,Pass
+339,Electronics and Telecommunication,DHARMENDRA MALVIYA,23T5120,7.3,Pass
+342,Computer Science,DHURV JAIN,23C5123,7.27,Pass
+342,Information Technology,NIKIL KEN,23I5153,7.27,Pass
+342,Electronics and Telecommunication,MAHIMA RAGHUWANSHI,23T5036,7.27,Pass
+342,Electronics and Telecommunication,RITESH KUMAR SINGH,23T5054,7.27,Pass
+346,Information Technology,ANAND GUPTA,23I5109,7.23,Pass
+346,Electronics and Telecommunication,PUSHTI BAGLA,23T5149,7.23,Pass
+348,Information Technology,HIMANSHU GAWALI,23I5025,7.17,Pass
+348,Information Technology,VINITA,23I5175,7.17,Pass
+348,Electronics and Telecommunication,DIVYAPRAKASH DWIVEDI,23T5123,7.17,Pass
+348,Electronics and Telecommunication,SUHANI LAHOTI,23T5165,7.17,Pass
+348,Electronics and Instrumentation,TATVESH BAVISKAR,23E5076,7.17,Pass
+348,Mechanical,SHANTANU DUTTA,23M5068,7.17,Pass
+354,Information Technology,ABHINAV GUPTA,23I5002,7.13,Pass
+354,Electronics and Telecommunication,ANSH VISHWAKARMA,23T5012,7.13,Pass
+354,Electronics and Telecommunication,SWEETI VISHWAKARMA,23T5167,7.13,Pass
+354,Electronics and Instrumentation,DEEPENDRA VITTHARIYA,23E5016,7.13,Pass
+358,Information Technology,PRADHYUMAN PATEL,23I5156,7.1,Pass
+358,Electronics and Instrumentation,NAVNEET DWIVEDI,23E5036,7.1,Pass
+358,Civil,RAJIV MEDA,23V5053,7.1,Pass
+361,Computer Science,KASHISH YADAV,23C5038,7.07,Pass
+361,Computer Science,KUNAL MOURYA,23C5044,7.07,Pass
+361,Information Technology,LUCKY LODHI,23I5038,7.07,Pass
+361,Information Technology,ASHI GUPTA,23I5119,7.07,Pass
+361,Electronics and Telecommunication,YOGENDRA SINGH MARKAM,23T5079,7.07,Pass
+361,Electronics and Telecommunication,JITENDRA DANGI,23T5128,7.07,Pass
+367,Computer Science,NEERAJ RAJORIYA,23C5146,7.03,Pass
+367,Information Technology,GHANSHYAM BATANE,23I5131,7.03,Pass
+367,Electronics and Telecommunication,JAINAM SINGHAI,23T5026,7.03,Pass
+367,Civil,NARENDRA DEHARIYA,23V5042,7.03,Pass
+367,Civil,RAJNANDNEE,23V5054,7.03,Pass
+372,Computer Science,ATUL RAWAT,23C5020,7.0,Pass
+372,Civil,ISHA CHOUHAN,23V5028,7.0,Pass
+374,Information Technology,RAGHAV MAHESHWARI,23I5057,6.97,Pass
+374,Electronics and Instrumentation,MANSI YADAV,23E5031,6.97,Pass
+376,Information Technology,MEET NANDECHA,23I5148,6.93,Pass
+376,Electronics and Telecommunication,KHUSHBU BACHHANE,23T5129,6.93,Pass
+378,Information Technology,VAIBHAV SONI,23I5075,6.9,Pass
+378,Information Technology,NEHA TEKAM,23I5152,6.9,Pass
+378,Civil,AKSHAY YADAV,23V5007,6.9,Pass
+381,Computer Science,HARISH PATIDAR,23C5033,6.87,Pass
+381,Electronics and Telecommunication,MONU DHAKAD,23T5137,6.87,Pass
+381,Civil,ANKUR SAWDEKAR,23V5010,6.87,Pass
+381,Civil,SAYYED AYAN ALI,23V5065,6.87,Pass
+385,Information Technology,BHUMIKA BADONIYA,23I5124,6.83,Pass
+385,Electronics and Telecommunication,ASHVIN PARMAR,23T5111,6.83,Pass
+385,Electronics and Telecommunication,RAVINDRA YADAV,23T5153,6.83,Pass
+385,Electronics and Telecommunication,SAKSHAM GARG,23T5179,6.83,Pass
+385,Electronics and Instrumentation,JASKARAN SINGH KHALSA,23E5023,6.83,Pass
+390,Electronics and Telecommunication,SHASHANK VIMAL,23T5063,6.8,Pass
+390,Civil,RAGHAV NUWAL,23V5051,6.8,Pass
+392,Computer Science,VIKAS SOURASHTRIYA,23C5175,6.77,Pass
+392,Electronics and Telecommunication,ANSH JAIN,23T5011,6.77,Pass
+392,Electronics and Telecommunication,LOKESH UIKEY,23T5035,6.77,Pass
+392,Electronics and Telecommunication,VIJAY MORE,23T5076,6.77,Pass
+396,Computer Science,AVNEET SINGH ARORA,23C5022,6.73,Pass
+396,Electronics and Telecommunication,MUSKAN BARMATE,23T5040,6.73,Pass
+396,Electronics and Telecommunication,MAHAK SEJKAR,23T5133,6.73,Pass
+396,Civil,ROSHANI NAGRAJ,23V5060,6.73,Pass
+400,Information Technology,KRISHNA KUMAR SAHU,23I5034,6.7,Pass
+400,Civil,ABHISHEK RANJAN,23V5002,6.7,Pass
+400,Civil,ADARSH JATAV,23V5003,6.7,Pass
+403,Electronics and Instrumentation,KAVYANSH BHARGAVA,23E5027,6.67,Pass
+403,Civil,MAHAK,23V5034,6.67,Pass
+405,Information Technology,PAWAN KASDE,23I5051,6.63,Pass
+405,Electronics and Instrumentation,RAHUL PATIL,23E5048,6.63,Pass
+407,Computer Science,SUNIL KUMAR AHIRWAR,23C5170,6.6,Pass
+407,Electronics and Telecommunication,SUMIT JHARIA,23T5070,6.6,Pass
+407,Electronics and Telecommunication,RISHI RAJ SHRIVASTAVA,23T5154,6.6,Pass
+407,Mechanical,KANISHK SHUKLA,23M5031,6.6,Pass
+411,Electronics and Instrumentation,SANYA LAHORIYA,23E5053,6.57,Pass
+411,Civil,RAMADITYA SANODIYA,23V5056,6.57,Pass
+411,Civil,VAIDANSH BATHAM,23V5074,6.57,Pass
+414,Computer Science,KANISHKA RATHORE,23C5037,6.53,Pass
+414,Computer Science,SYED MOHD MAAZ,23C5069,6.53,Pass
+414,Civil,HARSH KATARA,23V5025,6.53,Pass
+417,Information Technology,YASHIKA GOYAL,23I5080,6.5,Pass
+417,Civil,PRABHASH JAISWAL,23V5046,6.5,Pass
+419,Information Technology,ASHISH KUSHWAH,23I5010,6.43,Pass
+419,Electronics and Telecommunication,RATNESH SONI,23T5152,6.43,Pass
+419,Electronics and Instrumentation,MANISH AHIRWAR,23E5029,6.43,Pass
+422,Computer Science,ABHAY RAJ VERMA,23C5106,6.4,Pass
+422,Electronics and Instrumentation,URVASHI BAMNEY,23E5077,6.4,Pass
+424,Electronics and Telecommunication,SOUMYA NARGAWE,23T5067,6.37,Pass
+424,Electronics and Telecommunication,YASH BHOJE,23T5175,6.37,Pass
+424,Electronics and Telecommunication,AVNI GADLE,23T5186,6.37,Pass
+427,Computer Science,ARYAN KARAIYA,23C5116,6.33,Pass
+428,Electronics and Telecommunication,DEWANG PARMAR,23T5020,6.27,Pass
+428,Electronics and Telecommunication,RISHABH KUSHWAHA,23T5053,6.27,Pass
+428,Electronics and Instrumentation,AAYUSHI VERMA,23E5002,6.27,Pass
+431,Electronics and Telecommunication,PRASHANT AHIRWAR,23T5048,6.23,Pass
+432,Electronics and Telecommunication,KUSHAGRA KUMAR,23T5031,6.2,Pass
+432,Electronics and Instrumentation,VIVEK KUMAR GUPTA,23E5079,6.2,Pass
+434,Electronics and Telecommunication,ASHISH BALODIA,23T5110,6.17,Pass
+434,Civil,RAM SINGH RAJPOOT,23V5055,6.17,Pass
+436,Electronics and Telecommunication,ARUSH SINGHI,23T5016,6.13,Pass
+436,Electronics and Telecommunication,PAYAL,23T5143,6.13,Pass
+436,Civil,AWADH NARAYAN SHUKLA,23V5014,6.13,Pass
+439,Electronics and Telecommunication,VISHANSHU RAJAK,23T5174,6.1,Pass
+440,Computer Science,MANTRA NAGIL,23C5047,6.07,Pass
+440,Electronics and Telecommunication,AASHUTOSH BAROLE,23T5003,6.07,Pass
+440,Electronics and Telecommunication,TUSHAL PATIDAR,23T5170,6.07,Pass
+440,Electronics and Instrumentation,VISHAL MANGROLE,23E5088,6.07,Pass
+444,Electronics and Telecommunication,AYUSH SOMKUWAR,23T5114,6.03,Pass
+444,Civil,MONISH THANI,23V5039,6.03,Pass
+446,Electronics and Instrumentation,NILESH DANGI,23E5038,6.0,Pass
+447,Electronics and Instrumentation,PAVAN AHIRWAR,23E5041,5.97,Pass
+448,Information Technology,SANTUL VERMA,23I5064,5.93,Pass
+448,Electronics and Telecommunication,NANDNI BAKORIYA,23T5041,5.93,Pass
+448,Electronics and Telecommunication,RASHI SIJARIYA,23T5151,5.93,Pass
+448,Electronics and Instrumentation,RISHABH PAHADE,23E5050,5.93,Pass
+452,Electronics and Telecommunication,VINEET SINGH,23T5077,5.9,Pass
+452,Electronics and Telecommunication,PRIYESH AGRAWAL,23T5148,5.9,Pass
+452,Civil,RANJEET NIGAM,23V5057,5.9,Pass
+455,Mechanical,NIKHIL KHATRI,23M5047,5.83,Pass
+456,Electronics and Telecommunication,UTKARSH TAYADE,23T5171,5.8,Pass
+456,Electronics and Instrumentation,SHIVAM PRAJAPATI,23E5061,5.8,Pass
+458,Electronics and Telecommunication,PRANSHU GUPTA,23T5047,5.77,Pass
+459,Electronics and Telecommunication,DIVYANSH TIWARI,23T5022,5.73,Pass
+459,Electronics and Instrumentation,PRABHANSHU TRIPATHI,23E5045,5.73,Pass
+461,Civil,HARSHIT SINGH BELWANSHI,23V5027,5.7,Pass
+462,Civil,PRANJAL SONTAKKE,23V5049,5.67,Pass
+463,Electronics and Telecommunication,NIKHIL KUMAR HARBOL,23T5138,5.57,Pass
+464,Electronics and Telecommunication,KUNAL LALWANI,23T5030,5.47,Pass
+465,Electronics and Telecommunication,HARSH BHILALA,23T5124,5.43,Pass
+466,Electronics and Telecommunication,YUVRAJ OSARI,23T5080,5.4,Pass
+467,Civil,SUNIL AHIRWAR,23V5073,5.37,Pass
+468,Electronics and Telecommunication,MOAZZAM SHAIKH,23T5136,5.3,Pass
+468,Electronics and Telecommunication,VISHAL RATHOR,23T5173,5.3,Pass
+470,Computer Science,AKHIL SINGH,23C5012,5.1,Pass
+471,Computer Science,NIKHIL BAMNKA,23C5147,5.07,Pass
+472,Electronics and Instrumentation,SHUBHI GUPTA,23E5080,5.0,Pass
+473,Computer Science,ANURUP MUWEL,23C5113,8.1,Fail
+474,Computer Science,ANANYA SONI,23C5108,8.0,Fail
+475,Computer Science,HARSH TAMRAKAR,23C5127,7.83,Fail
+476,Computer Science,YASHASVI GODRA,23C5179,7.8,Fail
+477,Computer Science,BHAVYA KUMAR SINGH,23C5121,7.53,Fail
+478,Computer Science,ADITYA SINGH BAGRI,23C5010,7.33,Fail
+479,Civil,ANSH JAISWAL,23V5011,7.03,Fail
+480,Computer Science,PARI MEENA,23C5086,6.87,Fail
+480,Computer Science,AYUSH KARAN JHA,23C5119,6.87,Fail
+482,Civil,SHRUTI OJHA,23V5081,6.77,Fail
+483,Electronics and Instrumentation,AYUSH BAGDI,23E5014,6.6,Fail
+484,Information Technology,KRISHNA,23I5032,6.53,Fail
+484,Information Technology,ANMOL BHADORIYA,23I5112,6.53,Fail
+486,Computer Science,ROHAN BAIRAGI,23C5058,6.37,Fail
+486,Information Technology,SUYASH PANDEY,23I5172,6.37,Fail
+488,Electronics and Instrumentation,HARSH SHARMA,23E5021,6.17,Fail
+489,Electronics and Instrumentation,SUHANI TRIVEDI,23E5072,6.07,Fail
+490,Information Technology,GOURISHANKAR,23I5022,6.03,Fail
+491,Electronics and Telecommunication,KUSHAGRA KIRAR,23T5132,6.0,Fail
+492,Information Technology,NEETESH PARIHAR,23I5044,5.93,Fail
+492,Information Technology,ANEESH KUMAR PASI,23I5111,5.93,Fail
+494,Electronics and Telecommunication,ANSHIKA AGRAWAL,23T5106,5.83,Fail
+495,Computer Science,ASHVIN PARMAR,23C5019,5.8,Fail
+495,Information Technology,DEEKSHA SALAME,23I5127,5.8,Fail
+497,Computer Science,NISHANT KHODANKAR,23C5148,5.77,Fail
+498,Information Technology,NISHANT JAIN,23I5047,5.73,Fail
+499,Information Technology,ANURAG SINGH THAKUR,23I5117,5.7,Fail
+500,Computer Science,RACHIT MAHAJAN,23C5152,5.67,Fail
+500,Mechanical,TARUN DHURWE,23M5071,5.67,Fail
+502,Electronics and Telecommunication,NIKHIL KHORWAL,23T5086,5.57,Fail
+503,Information Technology,PRIYANSHU PETHARI,23I5054,5.5,Fail
+503,Information Technology,ANSHUL NIMORE,23I5115,5.5,Fail
+503,Mechanical,DHRUV TRIPATHI,23M5024,5.5,Fail
+506,Electronics and Telecommunication,KAVYANSH SAXENA,23T5028,5.47,Fail
+507,Computer Science,TANMAY CHOUDHARY,23C5072,5.4,Fail
+507,Information Technology,RISHABHARAJ SHARMA,23I5059,5.4,Fail
+509,Computer Science,RAVI KUMAR RAWAT,23C5156,5.37,Fail
+509,Information Technology,CHITRANSH SAHU,23I5126,5.37,Fail
+511,Civil,MIRAJ HUSSAIN,23V5037,5.27,Fail
+512,Electronics and Telecommunication,PARV PAWADE,23T5142,5.23,Fail
+513,Electronics and Telecommunication,DHANNA GUNDIYA,23T5021,5.2,Fail
+513,Electronics and Instrumentation,SHUBHANSHU KUMAR,23E5065,5.2,Fail
+515,Electronics and Instrumentation,SIDDHARTH NAGLE,23E5066,5.17,Fail
+516,Electronics and Instrumentation,MONU JATAV,23E5034,5.13,Fail
+516,Electronics and Instrumentation,SAMARTH PARIHAR,23E5052,5.13,Fail
+518,Information Technology,KAVITA DHURVE,23I5030,5.1,Fail
+518,Information Technology,SOUMYA MISHRA,23I5168,5.1,Fail
+520,Information Technology,UMESH ANJANA,23I5074,5.07,Fail
+520,Information Technology,SHIVAM KAKODIYA,23I5164,5.07,Fail
+522,Electronics and Telecommunication,HIMANSHU BHADKARE,23T5025,5.03,Fail
+523,Information Technology,KULDEEP BARE,23I5145,5.0,Fail
+523,Civil,DIVYANSH DAWAR,23V5021,5.0,Fail
+525,Electronics and Instrumentation,GAURAV SAINI,23E5020,4.87,Fail
+525,Mechanical,BHOMICK BHASKER,23M5023,4.87,Fail
+525,Civil,SONALI TOMAR,23V5072,4.87,Fail
+528,Information Technology,HARSH TONGAR,23I5137,4.83,Fail
+528,Civil,HARSH DWIVEDI,23V5024,4.83,Fail
+530,Electronics and Telecommunication,ANURAG TIWARI,23T5108,4.8,Fail
+530,Electronics and Instrumentation,AMAN PAWAR,23E5005,4.8,Fail
+532,Computer Science,LALLU CHOUHAN,23C5094,4.77,Fail
+533,Electronics and Telecommunication,SAMARTH BILLORE,23T5060,4.7,Fail
+533,Civil,NAVEEN MISHRA,23V5043,4.7,Fail
+535,Electronics and Telecommunication,TANUSHREE MANDLOI,23T5168,4.67,Fail
+536,Electronics and Telecommunication,DHEERAJ PATIDAR,23T5121,4.63,Fail
+536,Mechanical,ROHIT VARKADE,23M5062,4.63,Fail
+538,Information Technology,AZIZ BOHRA,23I5015,4.57,Fail
+538,Information Technology,DIVYANSH DAHIMA,23I5021,4.57,Fail
+540,Electronics and Instrumentation,DISHA SHAKYAWAR,23E5017,4.53,Fail
+541,Information Technology,AMAN PATEL,23I5108,4.33,Fail
+542,Computer Science,HARISH HIHOR,23C5126,4.3,Fail
+543,Information Technology,NEELESH KUMRE,23I5151,4.17,Fail
+544,Electronics and Telecommunication,RAJENDRA MEWADA,23T5052,4.13,Fail
+544,Electronics and Telecommunication,SUMIT BHADOURIYA,23T5069,4.13,Fail
+546,Information Technology,SUMIT MEHAR,23I5171,4.1,Fail
+547,Information Technology,NIKHIL KUMAR,23I5045,4.03,Fail
+548,Information Technology,KAPSE PRIYANSHU MOHAN,23I5028,3.97,Fail
+548,Civil,AADARSH DAHERIYA,23V5001,3.97,Fail
+550,Mechanical,KRISHNA VERMA,23M5033,3.93,Fail
+551,Electronics and Telecommunication,DIVYANSH KUSHWAHA,23T5122,3.9,Fail
+552,Electronics and Telecommunication,LATISH BARELA,23T5034,3.87,Fail
+552,Civil,SANDEEP KUMAR KOL,23V5062,3.87,Fail
+554,Electronics and Instrumentation,PIYUSH SEJEKAR,23E5044,3.8,Fail
+554,Civil,NEERAJ RAWAT,23V5044,3.8,Fail
+556,Electronics and Telecommunication,AADI AGRAWAL,23T5001,3.77,Fail
+556,Electronics and Telecommunication,SUMIT SINGH MAHOBIYA,23T5166,3.77,Fail
+558,Information Technology,IFHAM KHAN,23I5138,3.73,Fail
+559,Civil,PRAKHAR SINGH,23V5048,3.67,Fail
+560,Computer Science,CHINTU SOHRA,23C5027,3.53,Fail
+561,Information Technology,LAVISH PATIDAR,23I5037,3.5,Fail
+561,Electronics and Instrumentation,AYUSH ARGAL,23E5013,3.5,Fail
+563,Computer Science,RAVI MOURYA,23C5157,3.47,Fail
+563,Mechanical,MUKESH HAMMAD,23M5042,3.47,Fail
+565,Electronics and Telecommunication,ABHIJEET PATEL,23T5005,3.43,Fail
+565,Electronics and Telecommunication,DEVASHISH RAJ,23T5119,3.43,Fail
+565,Civil,SHARAD PARTE,23V5067,3.43,Fail
+568,Information Technology,ATTADEEP DAHERIYA,23I5013,3.33,Fail
+569,Information Technology,KARVIN JAMRA,23I5029,3.3,Fail
+569,Information Technology,SNEHA SHARMA,23I5068,3.3,Fail
+569,Mechanical,ASHUTOSH EKKA,23M5018,3.3,Fail
+572,Electronics and Telecommunication,HEMANT SINGH SUMAN,23T5126,3.27,Fail
+573,Electronics and Instrumentation,DIYA DAWAR,23E5019,3.13,Fail
+574,Electronics and Telecommunication,BHAVIT MISHRA,23T5116,3.1,Fail
+575,Electronics and Instrumentation,SARTHAK GOKHALE,23E5054,3.07,Fail
+576,Electronics and Instrumentation,AAYUSH JATAV,23E5001,2.87,Fail
+577,Electronics and Instrumentation,TANISHQ SAWARKAR,23E5074,2.83,Fail
+578,Electronics and Telecommunication,SOMITRA ACHARYA,23T5065,2.8,Fail
+579,Electronics and Telecommunication,BRIJENDRA AHIRWAR,23T5118,2.77,Fail
+579,Civil,SANGITA DUDVE,23V5063,2.77,Fail
+581,Electronics and Telecommunication,HARSH MISHRA,23T5125,2.73,Fail
+582,Electronics and Telecommunication,ROHIT PARMAR,23T5055,2.67,Fail
+582,Civil,SHIVCHANDRAPAL SENGAR,23V5069,2.67,Fail
+584,Information Technology,DINESH GINAWA,23I5020,2.53,Fail
+585,Electronics and Telecommunication,PRASOON PANNA,23T5145,2.5,Fail
+586,Electronics and Instrumentation,ASHUTOSH AGRAWAL,23E5011,2.33,Fail
+586,Civil,MOHIT SAREL,23V5038,2.33,Fail
+588,Electronics and Telecommunication,SATISH PRAJAPATI,23T5061,2.3,Fail
+589,Electronics and Instrumentation,OM KHODE,23E5040,2.23,Fail
+590,Electronics and Telecommunication,TARUN SHARMA,23T5169,2.17,Fail
+591,Computer Science,KRISHNKANT SISODIYA,23C5135,2.13,Fail
+591,Electronics and Telecommunication,YOGENDAR TRIVEDI,23T5177,2.13,Fail
+593,Electronics and Telecommunication,RAHUL GARG,23T5050,2.03,Fail
+594,Electronics and Telecommunication,RUDRA PRATAP SINGH,23T5057,1.93,Fail
+595,Electronics and Telecommunication,PREETI KUMRE,23T5146,1.63,Fail
+596,Electronics and Telecommunication,SHIVAM PATEL,23T5159,1.57,Fail
+597,Electronics and Telecommunication,ROHIT SOLANKI,23T5155,1.5,Fail
+598,Computer Science,HIMANSHU BIRLA,23C5128,0.67,Fail
+599,Electronics and Telecommunication,SAWAN CHOUHAN,23T5062,0.0,Fail
