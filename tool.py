@@ -5,6 +5,7 @@ import time
 
 session = requests.Session()
 session.headers.update({
+    #env
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                   "AppleWebKit/537.36 (KHTML, like Gecko) "
                   "Chrome/143.0.0.0 Safari/537.36"
@@ -14,10 +15,11 @@ session.headers.update({
 student_pass = []
 student_fail = []
 
-branch_list = ['c', 'i', 'b', 't', 'e', 'm', 'v']
-sem = 2
-roll_range = [(sem*1000+1, sem*1000+99), (sem*1001+101, sem*1000+199)]
 
+#env 
+branch_list = ['c', 'i', 'b', 't', 'e', 'm', 'v']
+sem = 3
+roll_range = [(sem*1000+1, sem*1000+90), (sem*1001+101, sem*1000+190)]
 branch_map = {
     'c': 'Computer Science',
     'i': 'Information Technology',
@@ -80,7 +82,7 @@ def generateURL():
         branchName = branch_map.get(branch, 'Unknown Branch')
         for start, end in roll_range:
             for roll in range(start, end):
-                url = f"https://results.ietdavv.edu.in/DisplayStudentResult?rollno=24{branch}{roll}&typeOfStudent=Regular"
+                url = f"https://results.ietdavv.edu.in/DisplayStudentResult?rollno=23{branch}{roll}&typeOfStudent=Regular"
 
                 fetch(url, branchName, 3)
                 done += 1
@@ -131,6 +133,3 @@ if __name__ == "__main__":
     write_csv(all_students)
 
     print(f"\nExecution Time: {time.time() - start_time:.2f} seconds")
-
-     
-
