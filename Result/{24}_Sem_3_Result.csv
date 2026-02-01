@@ -1,0 +1,651 @@
+rank,branch,name,roll,cg,verdict
+1,Information Technology,TAMANNA RAJENDRA GUPTA,24I3171,9.86,Pass
+1,Computer Science Business Studies,ANIKA PATIDAR,24B3007,9.86,Pass
+3,Information Technology,HUKMEET KAUR CHHINA,24I3136,9.73,Pass
+4,Electronics and Telecommunication,ANTIMA SINGH,24T3015,9.68,Pass
+5,Computer Science,TAHER MHOWWALA,24C3075,9.64,Pass
+6,Computer Science,SANIYA GUPTA,24C3065,9.59,Pass
+6,Computer Science Business Studies,URVASHI TIWARI,24B3067,9.59,Pass
+6,Electronics and Telecommunication,HARMEET KAUR SALUJA,24T3030,9.59,Pass
+9,Electronics and Telecommunication,ANIKET GODBOLE,24T3013,9.55,Pass
+10,Computer Science Business Studies,BHARAT JAIN SANGHVI,24B3017,9.5,Pass
+11,Computer Science,LUVAI AMJHERAWALA,24C3037,9.45,Pass
+11,Computer Science,YASH CHOUDHARY,24C3176,9.45,Pass
+11,Information Technology,JAYWARDHAN SINGH CHAUHAN,24I3137,9.45,Pass
+11,Computer Science Business Studies,SARTHVI SHRIVASTAVA,24B3056,9.45,Pass
+11,Electronics and Instrumentation,PURUSHOTTAM GUPTA,24E3053,9.45,Pass
+16,Computer Science,SHREYASH BANZAL,24C3069,9.41,Pass
+16,Information Technology,ATHARV GUPTA,24I3016,9.41,Pass
+16,Electronics and Instrumentation,TANMAY VISHWAKARMA,24E3074,9.41,Pass
+19,Information Technology,DEVANSH YADUVANSHI,24I3023,9.36,Pass
+19,Information Technology,ANKITA RATHORE,24I3115,9.36,Pass
+19,Electronics and Telecommunication,ANSH TIWARI,24T3108,9.36,Pass
+22,Computer Science,SEJAL SONI,24C3067,9.32,Pass
+22,Computer Science,SIDDHANT JAIN,24C3166,9.32,Pass
+22,Information Technology,TARUNENDRA SINGH,24I3076,9.32,Pass
+22,Electronics and Telecommunication,SHREYA AGRAWAL,24T3064,9.32,Pass
+22,Electronics and Instrumentation,ARYAN BAGHEL,24E3014,9.32,Pass
+27,Mechanical,DEEPAK DANGI,24M3021,9.29,Pass
+28,Information Technology,SAUMYA GUPTA,24I3068,9.27,Pass
+28,Computer Science Business Studies,VEDANT MAHESHWARI,24B3070,9.27,Pass
+28,Electronics and Telecommunication,FATEMA KAPADIA,24T3028,9.27,Pass
+31,Computer Science,AMISH MAHAJAN,24C3007,9.23,Pass
+31,Computer Science Business Studies,HARSHITA VERMA,24B3028,9.23,Pass
+33,Computer Science,POOJA AHIRWAR,24C3050,9.18,Pass
+33,Computer Science,SATAKSHI DIXIT,24C3161,9.18,Pass
+33,Computer Science,YASHRAJ SINGH JHALA,24C3179,9.18,Pass
+33,Information Technology,KHUSHI SINGH,24I3138,9.18,Pass
+33,Information Technology,SAUMIT GUPTA,24I3166,9.18,Pass
+38,Information Technology,PRIYANSHI GHOSH,24I3049,9.14,Pass
+38,Information Technology,UNNATI GUPTA,24I3175,9.14,Pass
+40,Information Technology,ANSHIKA GARG,24I3013,9.09,Pass
+40,Information Technology,DAHARE NIDHI MADHAVRAO,24I3021,9.09,Pass
+40,Information Technology,MAHAK NILESH SONI,24I3034,9.09,Pass
+43,Information Technology,BHAVESH NARSINGHANI,24I3019,9.05,Pass
+43,Information Technology,NAMAN JAIN,24I3086,9.05,Pass
+43,Electronics and Instrumentation,ANSHIKA MANTRI,24E3010,9.05,Pass
+43,Civil,KASHISH MARAVI,24V3038,9.05,Pass
+47,Computer Science,AKSHITA VAISH,24C3005,9.0,Pass
+47,Computer Science,NITIN GUPTA,24C3048,9.0,Pass
+47,Computer Science,SAMAYARA VERMA,24C3064,9.0,Pass
+47,Computer Science,SHUBH UPADHYAYA,24C3086,9.0,Pass
+47,Information Technology,NEHAL AHIRWAR,24I3041,9.0,Pass
+47,Computer Science Business Studies,GAURI PALIWAL,24B3023,9.0,Pass
+47,Computer Science Business Studies,SHUBHIKA SHUKLA,24B3060,9.0,Pass
+47,Computer Science Business Studies,SUDHIR PATIDAR,24B3064,9.0,Pass
+47,Computer Science Business Studies,AVINASH TIWARI,24B3075,9.0,Pass
+47,Civil,NITESH SINGH TAIGORE,24V3052,9.0,Pass
+47,Civil,SATYAM PATEL,24V3064,9.0,Pass
+58,Computer Science,AASTHA AGRAWAL,24C3001,8.95,Pass
+58,Computer Science Business Studies,PRANAMYA SHARMA,24B3046,8.95,Pass
+58,Computer Science Business Studies,SARTHAK PATIDAR,24B3055,8.95,Pass
+58,Computer Science Business Studies,VIRAL DUBEY,24B3072,8.95,Pass
+62,Computer Science Business Studies,SIYA GURJAR,24B3061,8.91,Pass
+62,Computer Science Business Studies,KANHA AGRAWAL,24B3076,8.91,Pass
+64,Computer Science,CHITRANGDA DUBEY,24C3021,8.86,Pass
+64,Computer Science,KAIF JILANI QURESHI,24C3031,8.86,Pass
+64,Computer Science,MAHIPAL SINGH RATHORE,24C3040,8.86,Pass
+64,Information Technology,BHAVIK AGRAWAL,24I3020,8.86,Pass
+64,Information Technology,ADITYA PRATAP SINGH,24I3110,8.86,Pass
+64,Information Technology,BHAVYA AGRAWAT,24I3124,8.86,Pass
+64,Information Technology,RACHNA SURJAYE,24I3152,8.86,Pass
+64,Electronics and Telecommunication,AKSHAT GUPTA,24T3011,8.86,Pass
+64,Electronics and Telecommunication,SULAKSHYA GEHLOT,24T3165,8.86,Pass
+64,Civil,DEEPIKA MISHRA,24V3020,8.86,Pass
+64,Civil,NIKHIL MALAKAR,24V3049,8.86,Pass
+75,Computer Science,DHRUV GUPTA,24C3024,8.82,Pass
+75,Information Technology,ROCHAK JAIN,24I3059,8.82,Pass
+75,Information Technology,YUVRAJ SONI,24I3081,8.82,Pass
+75,Information Technology,SHIVAM SINGH,24I3168,8.82,Pass
+75,Computer Science Business Studies,AVNI JAIN,24B3015,8.82,Pass
+75,Computer Science Business Studies,BHUMI JAIN,24B3018,8.82,Pass
+81,Computer Science,DARSHAN PATWA,24C3022,8.77,Pass
+81,Computer Science,LOVE SINGHAL,24C3132,8.77,Pass
+81,Information Technology,PRIYANSH DWIVEDI,24I3048,8.77,Pass
+81,Information Technology,RISHABH BOHRA,24I3056,8.77,Pass
+81,Electronics and Telecommunication,KALPANA KUMARI,24T3086,8.77,Pass
+81,Electronics and Telecommunication,LUCKY PATIDAR,24T3141,8.77,Pass
+81,Electronics and Telecommunication,SHIVI YADAV,24T3187,8.77,Pass
+81,Civil,TARUN PRAJAPATI,24V3070,8.77,Pass
+89,Computer Science,PARTH YADAV,24C3049,8.73,Pass
+89,Information Technology,KRISHNA ARJARIYA,24I3030,8.73,Pass
+89,Information Technology,RADHIKA PANDE,24I3153,8.73,Pass
+89,Computer Science Business Studies,DEVENDRA KUSHWAHA,24B3020,8.73,Pass
+89,Electronics and Telecommunication,HEMANSHI GUPTA,24T3134,8.73,Pass
+89,Electronics and Instrumentation,ASHU PATEL,24E3017,8.73,Pass
+89,Electronics and Instrumentation,NIYATI MANDLOI,24E3043,8.73,Pass
+89,Civil,ADITI YADAV,24V3002,8.73,Pass
+97,Computer Science,SARTHAK GEETE,24C3066,8.68,Pass
+97,Computer Science,ASTHA JAIN,24C3112,8.68,Pass
+97,Computer Science,DHEERENDRA SINGH LODHI,24C3120,8.68,Pass
+97,Computer Science,PARTH JOSHI,24C3143,8.68,Pass
+97,Computer Science Business Studies,PARNIKA LILANI,24B3041,8.68,Pass
+97,Electronics and Telecommunication,ANUJ SHARMA,24T3110,8.68,Pass
+97,Electronics and Instrumentation,RITIKA LAGHATE,24E3060,8.68,Pass
+104,Computer Science,KULDEEP PARMAR,24C3035,8.64,Pass
+104,Computer Science,MUKUND RATHORE,24C3044,8.64,Pass
+104,Computer Science,PAYAL SAGITLA,24C3144,8.64,Pass
+104,Computer Science,PRIYANSHU THAKUR,24C3149,8.64,Pass
+104,Information Technology,HARSH INDULKAR,24I3027,8.64,Pass
+104,Information Technology,KHUSHI SOMKUWAR,24I3028,8.64,Pass
+104,Information Technology,RAMAN PAWAR,24I3054,8.64,Pass
+104,Information Technology,LAGNESH MANDHANYA,24I3140,8.64,Pass
+104,Computer Science Business Studies,HARSHITA BRAMHVANSHI,24B3026,8.64,Pass
+113,Computer Science,SONAM AHIRWAR,24C3167,8.59,Pass
+113,Information Technology,ABHINAV SHUKLA,24I3004,8.59,Pass
+113,Information Technology,RIDHIMA DWIVEDI,24I3055,8.59,Pass
+113,Information Technology,PREKSHA JAIN,24I3147,8.59,Pass
+113,Information Technology,SARA VERMA,24I3163,8.59,Pass
+113,Computer Science Business Studies,GURPREET SINGH BHATIA,24B3025,8.59,Pass
+113,Computer Science Business Studies,SADHVI SINGH,24B3052,8.59,Pass
+113,Computer Science Business Studies,VINAYAK JAISWAL,24B3071,8.59,Pass
+121,Mechanical,AARNAV SHARMA,24M3003,8.57,Pass
+121,Mechanical,MRIDUL TALERA,24M3040,8.57,Pass
+123,Information Technology,DISHA GUPTA,24I3128,8.55,Pass
+123,Information Technology,MANAN MISHRA,24I3141,8.55,Pass
+123,Computer Science Business Studies,VED KUMAR PANDEY,24B3069,8.55,Pass
+123,Civil,AAYUSH MALVIYA,24V3001,8.55,Pass
+127,Mechanical,RITIK VORA,24M3060,8.52,Pass
+128,Computer Science,BHOOMIK MAHAJAN,24C3018,8.5,Pass
+128,Computer Science,MADHURI SHARMA,24C3038,8.5,Pass
+128,Computer Science,RITVIKA BAFNA,24C3059,8.5,Pass
+128,Computer Science,ROUNAK WASKEL,24C3061,8.5,Pass
+128,Computer Science,MAHAK BANSAL,24C3134,8.5,Pass
+128,Computer Science,MAHI RATHORE,24C3135,8.5,Pass
+128,Computer Science Business Studies,ARNAV KEKRE,24B3010,8.5,Pass
+128,Computer Science Business Studies,VAIDIK PARSAI,24B3068,8.5,Pass
+128,Electronics and Telecommunication,SHRUTI JAIN,24T3065,8.5,Pass
+128,Electronics and Instrumentation,KRUTPUNYA JAIN,24E3034,8.5,Pass
+138,Information Technology,SAMBHAV VERMA,24I3062,8.45,Pass
+138,Computer Science Business Studies,AMBER SALUJA,24B3005,8.45,Pass
+138,Computer Science Business Studies,GAURAV AGRAWAL,24B3022,8.45,Pass
+138,Electronics and Instrumentation,ADARSH SINGH,24E3005,8.45,Pass
+142,Computer Science,SHUBH RAGHUVANSHI,24C3070,8.41,Pass
+142,Computer Science,DAKSHANT PATIDAR,24C3118,8.41,Pass
+142,Computer Science,PRAKHAR PORWAL,24C3145,8.41,Pass
+142,Information Technology,ACHAL SHUKLA,24I3006,8.41,Pass
+142,Information Technology,ANUJ BANSAL,24I3014,8.41,Pass
+142,Information Technology,PRIYANKA KATARA,24I3148,8.41,Pass
+142,Electronics and Telecommunication,DIVIJA JAIN,24T3122,8.41,Pass
+142,Civil,TANU CHHAPRE,24V3069,8.41,Pass
+150,Computer Science,HARDIK RAGHUVANSHI,24C3027,8.36,Pass
+150,Computer Science Business Studies,PARV BAFNA,24B3043,8.36,Pass
+150,Computer Science Business Studies,YASH YADAV,24B3073,8.36,Pass
+150,Electronics and Instrumentation,PEARLY JAIN,24E3047,8.36,Pass
+150,Civil,OM SAHU,24V3053,8.36,Pass
+155,Computer Science,CHETAN JAT,24C3020,8.32,Pass
+155,Computer Science,KAVYA SAHU,24C3033,8.32,Pass
+155,Computer Science,SIDDHI JHAWAR,24C3073,8.32,Pass
+155,Information Technology,AYUSH BANSAL,24I3017,8.32,Pass
+155,Computer Science Business Studies,KARTIKEY CHOUKSEY,24B3033,8.32,Pass
+155,Electronics and Telecommunication,SAMEER YADAV,24T3161,8.32,Pass
+161,Computer Science,KANCHAN KURMI,24C3032,8.27,Pass
+161,Information Technology,PUNIT SOLANKI,24I3052,8.27,Pass
+161,Information Technology,ANMOL TAMRAKAR,24I3116,8.27,Pass
+161,Information Technology,BHARAT RAGHUWANSHI,24I3123,8.27,Pass
+161,Information Technology,YASH JAIN,24I3180,8.27,Pass
+161,Computer Science Business Studies,DHRUV RATHORE,24B3021,8.27,Pass
+161,Computer Science Business Studies,HARSHITA VERMA,24B3027,8.27,Pass
+161,Electronics and Telecommunication,ARJUN SINGH KUSHWAH,24T3112,8.27,Pass
+161,Civil,AYUSH SINGH YADAV,24V3017,8.27,Pass
+170,Information Technology,RAJAT KUMAR GUPTA,24I3155,8.23,Pass
+170,Computer Science Business Studies,PRAKHAR GURJAR,24B3045,8.23,Pass
+170,Electronics and Instrumentation,PRERNA SINGHAL,24E3051,8.23,Pass
+170,Civil,AYAN KUSHWAHA,24V3015,8.23,Pass
+170,Civil,DIVYA SONI,24V3026,8.23,Pass
+175,Mechanical,AGAM SANGHVI,24M3008,8.19,Pass
+175,Mechanical,DAKSH RELWANI,24M3020,8.19,Pass
+175,Mechanical,KAVYA SINGH CHAUHAN,24M3030,8.19,Pass
+175,Mechanical,PARAS SINGH KHAROL,24M3049,8.19,Pass
+179,Computer Science,ANSHU SONSARWAR,24C3010,8.18,Pass
+179,Computer Science,PRIYANSHI JHARIYA,24C3148,8.18,Pass
+179,Information Technology,NEERAV MANDRAHA,24I3144,8.18,Pass
+179,Information Technology,PARMANAND TEJRA,24I3145,8.18,Pass
+179,Computer Science Business Studies,BHUMIKA G PATIL,24B3019,8.18,Pass
+179,Electronics and Telecommunication,RHYTHM SURANA,24T3186,8.18,Pass
+179,Civil,ANUJ PATHAK,24V3011,8.18,Pass
+186,Computer Science,ARYAN MASANI,24C3109,8.14,Pass
+186,Computer Science,NIMISHA AGARWAL,24C3142,8.14,Pass
+186,Computer Science Business Studies,RAUNAK AGRAWAL,24B3050,8.14,Pass
+186,Mechanical,GOURI SONAKIYA,24M3024,8.14,Pass
+186,Civil,CHANDAN NINGWAL,24V3019,8.14,Pass
+191,Mechanical,RAJ SHEKHAR MAHATA,24M3059,8.1,Pass
+192,Computer Science Business Studies,PRIYANKA BOOWADE,24B3047,8.09,Pass
+192,Electronics and Telecommunication,DIVYANSH SHRIVASTAVA,24T3026,8.09,Pass
+192,Electronics and Telecommunication,NAMAN KASLIWAL,24T3044,8.09,Pass
+192,Electronics and Instrumentation,MAYANK JAIN,24E3037,8.09,Pass
+192,Civil,DIVYA RATHORE,24V3025,8.09,Pass
+197,Information Technology,AYUSHI PANDEY,24I3122,8.05,Pass
+197,Civil,MANOJ RAJPOOT,24V3045,8.05,Pass
+199,Computer Science,VIKAS JAISWAL,24C3174,8.0,Pass
+199,Information Technology,ABHISHEK AGRAWAL,24I3106,8.0,Pass
+199,Computer Science Business Studies,ARYA JHA,24B3012,8.0,Pass
+199,Electronics and Telecommunication,GORANSH SHARMA,24T3127,8.0,Pass
+199,Mechanical,NANDANI SINGH,24M3042,8.0,Pass
+199,Civil,ARYRAJ KAURAV,24V3014,8.0,Pass
+199,Civil,PAKHI PARTE,24V3054,8.0,Pass
+206,Computer Science,VANSHIKA TRIPATHI,24C3173,7.95,Pass
+206,Information Technology,SAMEEKSHA RAJPUT,24I3063,7.95,Pass
+206,Computer Science Business Studies,AVINASH BAJPAI,24B3014,7.95,Pass
+206,Computer Science Business Studies,SACHIN SAHU,24B3051,7.95,Pass
+210,Computer Science,STUTI JAIN,24C3074,7.91,Pass
+210,Information Technology,PRIYANSHI MAKHAR,24I3050,7.91,Pass
+210,Information Technology,VIVEK PAWAR,24I3179,7.91,Pass
+210,Electronics and Telecommunication,VIDHI DIXIT,24T3171,7.91,Pass
+210,Civil,APARNA KUSHWAHA,24V3012,7.91,Pass
+215,Mechanical,SANJANA PRAJAPAT,24M3063,7.9,Pass
+216,Information Technology,AASHUTOSH VERMA,24I3001,7.86,Pass
+216,Computer Science Business Studies,ADITYA GUPTA,24B3002,7.86,Pass
+216,Civil,SIDDHARTH DWIVEDI,24V3068,7.86,Pass
+219,Information Technology,NAMAN PORWAL,24I3040,7.82,Pass
+219,Information Technology,SAUMYA GARG,24I3067,7.82,Pass
+219,Electronics and Telecommunication,MUSKAN SINGH,24T3042,7.82,Pass
+219,Electronics and Telecommunication,BHAVYA SHARMA,24T3117,7.82,Pass
+219,Electronics and Telecommunication,HARSH JAIN,24T3131,7.82,Pass
+219,Electronics and Telecommunication,YASH MAHAWAR,24T3177,7.82,Pass
+219,Electronics and Instrumentation,REHAN KHAN,24E3058,7.82,Pass
+219,Civil,DEVYANI VERMA,24V3024,7.82,Pass
+227,Mechanical,SHOURY NAYAK,24M3066,7.81,Pass
+228,Computer Science,ATHARV VERMA,24C3015,7.77,Pass
+228,Computer Science,KALASH CHOURASIYA,24C3128,7.77,Pass
+228,Computer Science,VILAS PATEL,24C3175,7.77,Pass
+228,Computer Science Business Studies,AMEYA SINGHAI,24B3006,7.77,Pass
+232,Computer Science,MOHIT SHARMA,24C3042,7.73,Pass
+232,Computer Science,VAIDIK SHRIVASTAVA,24C3078,7.73,Pass
+232,Computer Science,PRIYANSH SHRIVASTAVA,24C3147,7.73,Pass
+232,Computer Science,SHUBH SAHU,24C3164,7.73,Pass
+232,Information Technology,SHREYANSH MAHESHWARI,24I3071,7.73,Pass
+232,Information Technology,ARNAV KATIYAR,24I3120,7.73,Pass
+232,Information Technology,HIMANSHU PINJARE,24I3135,7.73,Pass
+232,Information Technology,PRIYANKA SINGH,24I3149,7.73,Pass
+232,Information Technology,PRIYANSH MUCHHALA,24I3150,7.73,Pass
+232,Electronics and Telecommunication,DEEPAK REGAR,24T3025,7.73,Pass
+232,Electronics and Instrumentation,BATUL BANDOOKWALA,24E3020,7.73,Pass
+243,Mechanical,MANSI PILLAI,24M3037,7.71,Pass
+243,Mechanical,VIPIN PRAJAPATI,24M3077,7.71,Pass
+245,Computer Science,DISHA LOWANSHI,24C3121,7.68,Pass
+245,Computer Science,RUDRA PRATAP SINGH,24C3156,7.68,Pass
+245,Information Technology,KHUSHI SONAK,24I3029,7.68,Pass
+245,Computer Science Business Studies,SHAKTHANSH PANDEY,24B3057,7.68,Pass
+245,Electronics and Telecommunication,SHASHANK RAI,24T3061,7.68,Pass
+245,Electronics and Telecommunication,ROHIT AHIRWAR,24T3160,7.68,Pass
+251,Mechanical,JAY SINGH JAT,24M3029,7.67,Pass
+252,Computer Science,GAURANG JAJODIA,24C3123,7.64,Pass
+252,Computer Science,MADHURI LOKHANDE,24C3133,7.64,Pass
+252,Information Technology,ABHAY DIXIT,24I3002,7.64,Pass
+252,Information Technology,VISHAL KUMAR KIRAR,24I3079,7.64,Pass
+252,Computer Science Business Studies,AAYUSH JAIN,24B3001,7.64,Pass
+252,Computer Science Business Studies,NAMAN SHARMA,24B3039,7.64,Pass
+252,Computer Science Business Studies,SARTHAK PATIDAR,24B3054,7.64,Pass
+252,Computer Science Business Studies,SUMUKH SHARMA,24B3065,7.64,Pass
+252,Electronics and Telecommunication,ADITYA BANGAR,24T3006,7.64,Pass
+252,Electronics and Telecommunication,MAHAK CHOUBAY,24T3034,7.64,Pass
+262,Mechanical,ABHISHEK TIWARI,24M3006,7.62,Pass
+262,Mechanical,BABLU PATIDAR,24M3018,7.62,Pass
+262,Mechanical,MAHIMA GUPTA,24M3035,7.62,Pass
+265,Computer Science,ARPIT KUMAR SHUKLA,24C3012,7.59,Pass
+265,Information Technology,PRATHAMESH JOSHI,24I3046,7.59,Pass
+265,Information Technology,RAMJI KHANGAR,24I3187,7.59,Pass
+265,Computer Science Business Studies,JYOTIRADITYA MANE,24B3032,7.59,Pass
+265,Computer Science Business Studies,KIRTAN PATIDAR,24B3035,7.59,Pass
+265,Electronics and Telecommunication,DAKSH JAIN,24T3024,7.59,Pass
+265,Electronics and Telecommunication,MANASVI SHARMA,24T3036,7.59,Pass
+265,Electronics and Telecommunication,HARSHIKA PATEL,24T3132,7.59,Pass
+273,Information Technology,AMAN SHUKLA,24I3009,7.55,Pass
+273,Electronics and Telecommunication,APOORVA ANAND MALVIYA,24T3016,7.55,Pass
+273,Electronics and Telecommunication,PRATISHTHA RAJPUT,24T3050,7.55,Pass
+276,Mechanical,NIHAL SHUKLA,24M3045,7.52,Pass
+276,Mechanical,SOMYA JOSHI,24M3069,7.52,Pass
+278,Computer Science,VISHAL RAJANI,24C3081,7.5,Pass
+278,Computer Science,USHIJ TRIPATHI,24C3170,7.5,Pass
+278,Computer Science,VAIBHAV SINGH BAGHEL,24C3172,7.5,Pass
+278,Information Technology,ADITI CHAUHAN,24I3007,7.5,Pass
+278,Electronics and Telecommunication,ABHI VERMA,24T3004,7.5,Pass
+278,Electronics and Telecommunication,ARNAV MODI,24T3114,7.5,Pass
+278,Electronics and Telecommunication,GYANEESH MISHRA,24T3130,7.5,Pass
+278,Electronics and Telecommunication,PRATHAMESH GHOLAP,24T3153,7.5,Pass
+286,Computer Science,CHHAVI SETHI,24C3117,7.45,Pass
+286,Information Technology,TANISHQ SAHU,24I3075,7.45,Pass
+286,Information Technology,YASHMANGLAM SONI,24I3080,7.45,Pass
+286,Information Technology,ANUJ SONI,24I3118,7.45,Pass
+286,Computer Science Business Studies,PRIYANSHI MALI,24B3048,7.45,Pass
+286,Computer Science Business Studies,SHREEMAY DIXIT,24B3059,7.45,Pass
+286,Electronics and Telecommunication,MAYANK TIWARI,24T3039,7.45,Pass
+286,Electronics and Telecommunication,ATISHAY JAIN,24T3115,7.45,Pass
+286,Electronics and Instrumentation,ANNIE AGRAWAL,24E3087,7.45,Pass
+295,Mechanical,SOM DWIVEDI,24M3068,7.43,Pass
+296,Computer Science,AKSHAT JAIN,24C3104,7.41,Pass
+296,Computer Science Business Studies,ANMOL AGRAWAL,24B3008,7.41,Pass
+296,Electronics and Telecommunication,ASHWIN GOHITE,24T3019,7.41,Pass
+296,Electronics and Telecommunication,RISHABH PRAJAPATI,24T3159,7.41,Pass
+300,Computer Science,RASHMITA MANDLOI,24C3057,7.36,Pass
+300,Computer Science,SAMYAK JAIN,24C3159,7.36,Pass
+300,Information Technology,PAYAL PRAJAPATI,24I3087,7.36,Pass
+300,Information Technology,SACHIN VERMA,24I3157,7.36,Pass
+300,Electronics and Telecommunication,RAGHAV AGRAWAL,24T3052,7.36,Pass
+300,Electronics and Telecommunication,DEEPENDRA GUPTA,24T3118,7.36,Pass
+300,Electronics and Telecommunication,DIVYANSHU GOUR,24T3124,7.36,Pass
+300,Civil,HRITIK VISHVAKARMA,24V3033,7.36,Pass
+308,Mechanical,ARCHIT MISHRA,24M3012,7.33,Pass
+309,Computer Science,URMILA DHARVE,24C3076,7.32,Pass
+309,Computer Science,UTKARSH CHALMELA,24C3077,7.32,Pass
+309,Information Technology,PRATHVIRAJ SINGH RANAWAT,24I3047,7.32,Pass
+309,Computer Science Business Studies,SUWAAQ KOTHARI,24B3066,7.32,Pass
+309,Electronics and Telecommunication,MAMTA ADIVASI,24T3035,7.32,Pass
+309,Electronics and Instrumentation,PRIYAN MALVIYA,24E3052,7.32,Pass
+315,Computer Science,DEVANSH MALVIYA,24C3023,7.27,Pass
+315,Computer Science,ANIL KUSHWAH,24C3106,7.27,Pass
+315,Computer Science,BHUMI VERMA,24C3115,7.27,Pass
+315,Information Technology,SAKSHAM DENGRE,24I3159,7.27,Pass
+315,Computer Science Business Studies,GOUTAM DEPALE,24B3024,7.27,Pass
+315,Electronics and Telecommunication,TARUN KACHHAWA,24T3071,7.27,Pass
+315,Electronics and Telecommunication,DURGASHANKAR PRAJAPAT,24T3125,7.27,Pass
+315,Electronics and Telecommunication,RIDIM JAIN,24T3158,7.27,Pass
+315,Electronics and Telecommunication,VIKAS GOYAL,24T3173,7.27,Pass
+315,Electronics and Instrumentation,SHUBHAM SHAH,24E3071,7.27,Pass
+325,Mechanical,DIKESH BHAWARKAR,24M3023,7.24,Pass
+326,Information Technology,DEEPESH PARTE,24I3022,7.23,Pass
+326,Information Technology,KULDEEP MARSKOLE,24I3139,7.23,Pass
+326,Information Technology,MOHAMMED KAPADIA,24I3142,7.23,Pass
+326,Electronics and Instrumentation,KUNAL VYAS,24E3035,7.23,Pass
+326,Electronics and Instrumentation,YASHIKA PATEL,24E3078,7.23,Pass
+326,Civil,TUSHAL VASTRANE,24V3071,7.23,Pass
+326,Civil,VEDANT JAIN,24V3073,7.23,Pass
+333,Mechanical,SONU AHIRWAR,24M3070,7.19,Pass
+334,Computer Science,GARIMA PACHOLIYA,24C3122,7.18,Pass
+334,Computer Science Business Studies,ANURAG KANADE,24B3009,7.18,Pass
+334,Computer Science Business Studies,PAVNI PAWAR,24B3044,7.18,Pass
+334,Computer Science Business Studies,RAMU PAL,24B3049,7.18,Pass
+334,Electronics and Telecommunication,BIRESH KUMAR PRAJAPATI,24T3023,7.18,Pass
+334,Electronics and Telecommunication,PRATIKSHA DANDERWAL,24T3049,7.18,Pass
+334,Electronics and Telecommunication,AVNISH SINGH,24T3116,7.18,Pass
+341,Computer Science,NIDHI THAKUR,24C3046,7.14,Pass
+341,Information Technology,ANADI SHARMA,24I3114,7.14,Pass
+341,Information Technology,DHRUV SAHU,24I3127,7.14,Pass
+341,Civil,PRABAL GARWAL,24V3058,7.14,Pass
+345,Information Technology,ABHISHEK SHARMA,24I3108,7.09,Pass
+345,Electronics and Instrumentation,SAHIL RANVEER,24E3064,7.09,Pass
+347,Computer Science,ANUSHKA JAIN,24C3108,7.05,Pass
+347,Computer Science,PRATEEK JAIN,24C3146,7.05,Pass
+347,Computer Science,YUVRAJ PARIHAR,24C3181,7.05,Pass
+347,Information Technology,MITALI MEHRA,24I3036,7.05,Pass
+347,Electronics and Instrumentation,PARI GARG,24E3046,7.05,Pass
+347,Civil,GOVIND SINGH DHURWEY,24V3030,7.05,Pass
+353,Computer Science Business Studies,KAVYA HARAD,24B3034,7.0,Pass
+353,Electronics and Telecommunication,SEJAL LOKHANDE,24T3060,7.0,Pass
+353,Electronics and Telecommunication,TANVI AGRAWAL,24T3070,7.0,Pass
+353,Electronics and Telecommunication,ANURAG YADAV,24T3111,7.0,Pass
+353,Electronics and Telecommunication,SHYAM AGRAWAL,24T3163,7.0,Pass
+353,Electronics and Instrumentation,AADI JAIN,24E3001,7.0,Pass
+359,Computer Science,DIVYANSH JAIN,24C3025,6.95,Pass
+359,Computer Science,RENEE WADHWA,24C3152,6.95,Pass
+359,Computer Science,DEEPENDRA CHOUHAN,24C3186,6.95,Pass
+359,Information Technology,ADITYA PUROHIT,24I3111,6.95,Pass
+359,Computer Science Business Studies,ADVAIT KSHIRSAGAR,24B3004,6.95,Pass
+359,Computer Science Business Studies,HIMAMSHU BARIYE,24B3029,6.95,Pass
+359,Computer Science Business Studies,NEERAJ DANGI,24B3040,6.95,Pass
+359,Mechanical,ASHUTOSH KHARE,24M3015,6.95,Pass
+359,Mechanical,LUCKY DHANAWAT,24M3034,6.95,Pass
+359,Mechanical,TANISHA VISHWAKARMA,24M3072,6.95,Pass
+359,Civil,ANANT GUPTA,24V3007,6.95,Pass
+370,Computer Science,MAHENDRA PATIDAR,24C3039,6.91,Pass
+370,Computer Science,MOHAMMAD JUNAID SHAIKH,24C3137,6.91,Pass
+370,Information Technology,LOKESH VASKALE,24I3033,6.91,Pass
+370,Information Technology,SARSIT KANNOJ,24I3164,6.91,Pass
+370,Computer Science Business Studies,HIMANSHU CHOUHAN,24B3030,6.91,Pass
+370,Electronics and Telecommunication,AKSHAJ RAIZADA,24T3010,6.91,Pass
+370,Electronics and Telecommunication,VEDIKA SOLANKI,24T3073,6.91,Pass
+370,Electronics and Telecommunication,TANISH YADAV,24T3166,6.91,Pass
+378,Computer Science,AYUSH KAKODIYA,24C3113,6.86,Pass
+378,Computer Science Business Studies,ANIMESH DWIVEDI,24B3074,6.86,Pass
+378,Electronics and Telecommunication,MANASVI KULKARNI,24T3143,6.86,Pass
+381,Computer Science,SHUBHANSH SRIVASTAVA,24C3165,6.82,Pass
+381,Information Technology,MD TALHA HASHMI,24I3035,6.82,Pass
+381,Civil,ISHIKA KATARIYA,24V3035,6.82,Pass
+384,Mechanical,HARSH VARDHAN SOLANKI,24M3027,6.81,Pass
+385,Information Technology,ANIKET SILAWAT,24I3010,6.77,Pass
+385,Electronics and Telecommunication,KRISH MITTAL,24T3138,6.77,Pass
+387,Computer Science Business Studies,ARPIT YADAV,24B3011,6.73,Pass
+387,Computer Science Business Studies,ATHARV GARG,24B3013,6.73,Pass
+387,Electronics and Telecommunication,AMRUT BAGORA,24T3012,6.73,Pass
+387,Electronics and Telecommunication,SEHRISH SHEIKH,24T3059,6.73,Pass
+387,Electronics and Telecommunication,RUDRANSH GOHIYA,24T3087,6.73,Pass
+387,Electronics and Telecommunication,KRATIKA GUPTA,24T3137,6.73,Pass
+393,Computer Science,ISHANT NAREDI,24C3029,6.68,Pass
+393,Electronics and Telecommunication,ARYAN DUBEY,24T3018,6.68,Pass
+393,Electronics and Telecommunication,DISHA KHATEEK,24T3121,6.68,Pass
+396,Computer Science,SHOBHIT SAINY,24C3163,6.64,Pass
+396,Information Technology,ABHISAR KANUDE,24I3005,6.64,Pass
+396,Information Technology,SHIV NANDAN SINGH TOMAR,24I3069,6.64,Pass
+396,Information Technology,GARIMA RAWAT,24I3129,6.64,Pass
+396,Computer Science Business Studies,PARTH ASATI,24B3042,6.64,Pass
+396,Electronics and Telecommunication,SURAJ DHAKAD,24T3068,6.64,Pass
+396,Civil,ANKIT SHIVCHARAN KAKODIA,24V3010,6.64,Pass
+396,Civil,MADHUSUDAN PAREEK,24V3043,6.64,Pass
+404,Mechanical,DHAWAL SONI,24M3022,6.62,Pass
+405,Information Technology,MANOJ PARIHAR,24I3186,6.59,Pass
+405,Electronics and Telecommunication,SANTOSH KIRADE,24T3058,6.59,Pass
+405,Electronics and Telecommunication,PRIYANSHU DAMAR,24T3154,6.59,Pass
+405,Electronics and Instrumentation,KRISHNPAL SINGH CHUNDAWAT,24E3033,6.59,Pass
+405,Electronics and Instrumentation,RASHIDA MODI,24E3057,6.59,Pass
+405,Civil,RAVINDRA CHOUHAN,24V3062,6.59,Pass
+411,Mechanical,KUNAL SAGORE,24M3032,6.57,Pass
+411,Mechanical,MOHAMMED BARWANIWALA,24M3038,6.57,Pass
+413,Computer Science,SIDDHANT BHAWSAR,24C3072,6.55,Pass
+413,Computer Science,RUMMI KAUL,24C3157,6.55,Pass
+413,Information Technology,ABHAY HIRVE,24I3003,6.55,Pass
+413,Computer Science Business Studies,JYOTI ARYA,24B3031,6.55,Pass
+413,Electronics and Telecommunication,FARHAN QURESHI,24T3027,6.55,Pass
+413,Electronics and Telecommunication,LAKSHYA MISHRA,24T3081,6.55,Pass
+413,Electronics and Instrumentation,AHTESHAM AHMED,24E3007,6.55,Pass
+413,Electronics and Instrumentation,ANSHIKA JAIN,24E3009,6.55,Pass
+421,Mechanical,ANKIT UIKEY,24M3010,6.52,Pass
+421,Mechanical,SANSKAR BHURRAK,24M3065,6.52,Pass
+423,Information Technology,KU SAMPADA JAIN,24I3032,6.5,Pass
+423,Information Technology,SUMIT KUMAR PACHAHA,24I3074,6.5,Pass
+423,Information Technology,CHANDRESH KHARE,24I3125,6.5,Pass
+423,Electronics and Telecommunication,BALJEET SINGH RAJAWAT,24T3022,6.5,Pass
+423,Electronics and Telecommunication,RACHIT JAIN,24T3051,6.5,Pass
+423,Civil,JATIN CHANDKE,24V3036,6.5,Pass
+429,Mechanical,BALENDRA SHARMA,24M3019,6.48,Pass
+430,Information Technology,SONMATI SINGH,24I3073,6.45,Pass
+430,Electronics and Telecommunication,GOURAV KUMAWAT,24T3129,6.45,Pass
+432,Computer Science Business Studies,MANISH JANAGAL,24B3038,6.41,Pass
+432,Computer Science Business Studies,SNEHA JAIN,24B3062,6.41,Pass
+432,Electronics and Telecommunication,TANISHQ KHARELIYA,24T3167,6.41,Pass
+432,Electronics and Instrumentation,GITANSH GOYAL,24E3025,6.41,Pass
+436,Mechanical,KRISHNPAL,24M3031,6.38,Pass
+437,Information Technology,OM GOUR,24I3043,6.36,Pass
+437,Information Technology,SAHIL SHEIKH,24I3061,6.36,Pass
+437,Computer Science Business Studies,MANASWI SAWALE,24B3037,6.36,Pass
+437,Electronics and Telecommunication,NABHITA MEHROTRA,24T3043,6.36,Pass
+437,Electronics and Instrumentation,OBAID UL HAQUE,24E3044,6.36,Pass
+437,Electronics and Instrumentation,DESHNA JAIN,24E3079,6.36,Pass
+443,Mechanical,HARSHITA SANAP,24M3028,6.33,Pass
+444,Computer Science,SHIKHA UIKEY,24C3162,6.32,Pass
+444,Computer Science,YASHANK JHARIYA,24C3178,6.32,Pass
+444,Information Technology,VAIBHAV MEENA,24I3176,6.32,Pass
+444,Electronics and Telecommunication,RAHUL MOURYA,24T3053,6.32,Pass
+444,Electronics and Telecommunication,VINAY PRATAP RAGHUWANSHI,24T3077,6.32,Pass
+444,Civil,NIRMAL SINGH,24V3051,6.32,Pass
+450,Information Technology,TUSHAR BOKADE,24I3172,6.27,Pass
+450,Computer Science Business Studies,SHASHANK YADAV,24B3058,6.27,Pass
+450,Electronics and Telecommunication,SPANDAN PURNAYE,24T3164,6.27,Pass
+450,Civil,AKARSH SAHU,24V3004,6.27,Pass
+454,Information Technology,DIVYANSH MALVIYA,24I3026,6.23,Pass
+454,Information Technology,SUBHASH SOLANKI,24I3170,6.23,Pass
+454,Electronics and Telecommunication,ROHIT KADBE,24T3056,6.23,Pass
+457,Computer Science,ARYAN MEENA,24C3110,6.18,Pass
+457,Information Technology,AKARSH MIHOLIYA,24I3113,6.18,Pass
+457,Electronics and Telecommunication,KARAN SACHDEV,24T3032,6.18,Pass
+457,Electronics and Instrumentation,ANUSHKA BHANDARI,24E3011,6.18,Pass
+461,Electronics and Telecommunication,TANUJA PARASTE,24T3168,6.14,Pass
+461,Electronics and Telecommunication,TARUN SINGH,24T3169,6.14,Pass
+461,Electronics and Instrumentation,ASHISH DANGI,24E3016,6.14,Pass
+461,Electronics and Instrumentation,YASH JINWAL,24E3077,6.14,Pass
+461,Electronics and Instrumentation,AAGAM JAIN,24E3086,6.14,Pass
+466,Computer Science,RAMAN SINGH PARIHAR,24C3151,6.09,Pass
+466,Information Technology,GAURI AHAKE,24I3130,6.09,Pass
+466,Electronics and Telecommunication,DHAWAL SINGH MEWADA,24T3120,6.09,Pass
+466,Electronics and Instrumentation,DIVYANSH JAIN,24E3024,6.09,Pass
+466,Electronics and Instrumentation,PRADEEP SINGH BAGHEL,24E3049,6.09,Pass
+466,Electronics and Instrumentation,RASHI SHIV,24E3056,6.09,Pass
+466,Electronics and Instrumentation,SOMYA PANCHAL,24E3072,6.09,Pass
+466,Civil,LUV PATIDAR,24V3042,6.09,Pass
+474,Computer Science,ARNAV MANGWANI,24C3011,6.05,Pass
+474,Electronics and Telecommunication,YUVRAJ SINGH BAIS,24T3080,6.05,Pass
+474,Electronics and Telecommunication,HARSHIT SHARMA,24T3133,6.05,Pass
+474,Electronics and Telecommunication,RAJ BADGOTYA,24T3156,6.05,Pass
+474,Civil,AMRITANSHU RAJPUT,24V3006,6.05,Pass
+479,Computer Science,ARYAN UPADHYAY,24C3111,6.0,Pass
+479,Computer Science,BALRAJ PATEL,24C3114,6.0,Pass
+479,Electronics and Telecommunication,RIYA GAWANDE,24T3054,6.0,Pass
+479,Electronics and Instrumentation,ANUSHKA CHANDRAVANSHI,24E3012,6.0,Pass
+479,Electronics and Instrumentation,KANISHKA BAGHEL,24E3028,6.0,Pass
+484,Computer Science,KRISH AGRAWAL,24C3034,5.95,Pass
+484,Computer Science,PRANJAL CHAWDA,24C3051,5.95,Pass
+484,Computer Science Business Studies,SOHAM CHANSARKAR,24B3063,5.95,Pass
+487,Information Technology,SHIVA BAMNIYA,24I3167,5.91,Pass
+488,Computer Science,MUBASHER MAQBOOL,24C3043,5.86,Pass
+488,Computer Science,JAYESH BETAV,24C3127,5.86,Pass
+488,Information Technology,ABHINAV DODIYAR,24I3105,5.86,Pass
+488,Information Technology,UMESH PATEL,24I3174,5.86,Pass
+488,Electronics and Telecommunication,LAKSHYA BUCHKE,24T3033,5.86,Pass
+488,Electronics and Telecommunication,VIDUSHI CHOUHAN,24T3172,5.86,Pass
+494,Computer Science,ROHIT BARDE,24C3060,5.82,Pass
+494,Computer Science Business Studies,AYUSH SINGH BAGHEL,24B3016,5.82,Pass
+494,Electronics and Instrumentation,YASH DUBEY,24E3076,5.82,Pass
+497,Mechanical,ARSH AHMED,24M3013,5.81,Pass
+498,Electronics and Instrumentation,BHAVESH KADODIYA,24E3021,5.77,Pass
+499,Computer Science,SHUBHAM WASKEL,24C3071,5.73,Pass
+499,Electronics and Instrumentation,KRISHNA THAKRE,24E3032,5.73,Pass
+499,Electronics and Instrumentation,VIVAN SHARMA,24E3080,5.73,Pass
+502,Electronics and Telecommunication,DEEPSHIKHA KHELWAR,24T3119,5.68,Pass
+502,Civil,HEMANT DAWAR,24V3031,5.68,Pass
+502,Civil,HIMANSHU PATIDAR,24V3032,5.68,Pass
+505,Electronics and Telecommunication,ATHARV ARYA,24T3020,5.64,Pass
+505,Electronics and Instrumentation,ARYAN SONI,24E3015,5.64,Pass
+507,Computer Science,ALFAIZ KHAN,24C3006,5.59,Pass
+507,Computer Science Business Studies,SANSKAR SONWANI,24B3053,5.59,Pass
+507,Electronics and Instrumentation,SHEERIN GHANVARY,24E3068,5.59,Pass
+507,Civil,MOHD KASHIF KHAN,24V3046,5.59,Pass
+507,Civil,YAMAN MAHOR,24V3074,5.59,Pass
+512,Electronics and Telecommunication,MAHIRAJ SINGH CHOUHAN,24T3142,5.55,Pass
+512,Civil,RIYA MEHRA,24V3063,5.55,Pass
+514,Computer Science,HARSHIT THAKUR,24C3028,5.5,Pass
+514,Computer Science,RINKU KALESH,24C3058,5.5,Pass
+514,Computer Science,NIKHIL,24C3141,5.5,Pass
+514,Civil,NIDHEESH SINGH RAJPUT,24V3048,5.5,Pass
+518,Mechanical,ASHWIN MOURYA,24M3016,5.48,Pass
+519,Computer Science,HARSHVARDHAN SOLANKI,24C3125,5.45,Pass
+519,Civil,ADITYA PARASHAR,24V3003,5.45,Pass
+521,Civil,DEVENDRA KUMAR KOL,24V3023,5.36,Pass
+521,Civil,MAHESH SASTIYA,24V3044,5.36,Pass
+521,Civil,YASHASVI PARMAR,24V3075,5.36,Pass
+524,Information Technology,SIDDHANT SINGH CHOUHAN,24I3072,5.32,Pass
+524,Civil,PRINCE PATIDAR,24V3059,5.32,Pass
+526,Mechanical,SURAJ SHARMA,24M3071,5.29,Pass
+527,Information Technology,SHUBHSHREE UMBARKAR,24I3169,5.27,Pass
+528,Mechanical,GUNJAN ATULKAR,24M3025,5.24,Pass
+529,Electronics and Instrumentation,SUDHANSHU CHAUDHARY,24E3073,5.23,Pass
+530,Electronics and Instrumentation,NIKHILRAJ MUNGERIYA,24E3041,5.18,Pass
+531,Civil,DIVYANSH SHARMA,24V3027,5.05,Pass
+532,Electronics and Instrumentation,NEHA MADHWANI,24E3089,5.0,Pass
+533,Electronics and Instrumentation,APARNA MALVIYA,24E3013,4.95,Pass
+533,Civil,SHIVAM DODVE,24V3065,4.95,Pass
+535,Electronics and Instrumentation,RUPALI BAMNE,24E3062,4.82,Pass
+536,Civil,LUCKY RAJ,24V3041,4.73,Pass
+537,Mechanical,NIHAL KHAPRE,24M3044,6.71,Fail
+538,Electronics and Instrumentation,RADHIKA MALVIYA,24E3054,6.5,Fail
+539,Mechanical,PRIYAMVADA SINGH,24M3055,6.24,Fail
+540,Information Technology,ADITYA KUMAR SINGH,24I3109,6.23,Fail
+541,Civil,DEVANSH LOKWANI,24V3021,5.86,Fail
+542,Information Technology,RUDRAKSH KANERIYA,24I3156,5.68,Fail
+543,Mechanical,TEJAS MALVIYA,24M3074,5.62,Fail
+544,Computer Science,NAMAN MATHUR,24C3139,5.55,Fail
+544,Information Technology,SHIVANI AVLASIYA,24I3070,5.55,Fail
+544,Civil,ANIKET WASNIK,24V3008,5.55,Fail
+547,Computer Science Business Studies,MANASVI GUPTA,24B3036,5.5,Fail
+548,Computer Science,UMAKANT MISHRA,24C3169,5.41,Fail
+548,Civil,ISHAN CHOUHAN,24V3034,5.41,Fail
+550,Mechanical,TANISHQ BARWAHE,24M3073,5.29,Fail
+551,Information Technology,VISHAL BHALSE,24I3178,5.27,Fail
+552,Computer Science,LATA GOUND,24C3131,5.23,Fail
+552,Information Technology,PIYUSH KUMAR VERMA,24I3045,5.23,Fail
+552,Electronics and Telecommunication,YASH VISHWAKARMA,24T3178,5.23,Fail
+555,Mechanical,HARDIK TARODIYA,24M3026,5.14,Fail
+556,Computer Science,ROSHAN YADAV,24C3155,5.09,Fail
+556,Information Technology,VANDANA JAMLE,24I3177,5.09,Fail
+556,Electronics and Telecommunication,ARPIT BADOLIYA,24T3017,5.09,Fail
+556,Electronics and Telecommunication,SUMIT PATIDAR,24T3067,5.09,Fail
+556,Electronics and Telecommunication,GEETANJALI YADAV,24T3126,5.09,Fail
+561,Computer Science,UTHKARSH MANDLOI,24C3171,5.0,Fail
+561,Electronics and Telecommunication,ABHAY SHARMA,24T3003,5.0,Fail
+561,Civil,YUVRAJ SOLANKI,24V3077,5.0,Fail
+564,Electronics and Telecommunication,GOURAV BHANSALI,24T3128,4.91,Fail
+565,Mechanical,ABHISHEK GURJAR,24M3005,4.9,Fail
+566,Mechanical,PRAKASH DWIVEDI,24M3051,4.86,Fail
+567,Information Technology,SARTHAK NEEMA,24I3165,4.82,Fail
+567,Electronics and Telecommunication,MILIND WADIA,24T3146,4.82,Fail
+569,Computer Science Business Studies,ADITYA RAJ SINGH NAVALIYA,24B3003,4.73,Fail
+570,Mechanical,MANASVI MALVIYA,24M3036,4.71,Fail
+570,Mechanical,PRANJAL GOSWAMI,24M3053,4.71,Fail
+572,Electronics and Telecommunication,MANISHA HIRVE,24T3144,4.68,Fail
+572,Civil,AYUSH RAJ ARYAN,24V3016,4.68,Fail
+572,Civil,PALVENDRA CHOUDHARY,24V3055,4.68,Fail
+572,Civil,SHIVAM PATIDAR,24V3066,4.68,Fail
+576,Computer Science,YASH SAVALIYA,24C3177,4.64,Fail
+576,Electronics and Instrumentation,AYUSH VERMA,24E3019,4.64,Fail
+578,Information Technology,SANKET PAWAR,24I3162,4.55,Fail
+578,Electronics and Instrumentation,RIYAZ KHAN,24E3061,4.55,Fail
+580,Information Technology,ABHANSH VERMA,24I3104,4.5,Fail
+580,Electronics and Instrumentation,YAMINI PRAJAPATI,24E3075,4.5,Fail
+582,Electronics and Telecommunication,NIMISHA DHOURELIA,24T3149,4.45,Fail
+582,Electronics and Telecommunication,VIVEK KOCHALE,24T3175,4.45,Fail
+582,Electronics and Instrumentation,PIYUSH VERMA,24E3048,4.45,Fail
+582,Civil,BHANUPRATAP CHOUHAN,24V3018,4.45,Fail
+586,Information Technology,VARUN SHARMA,24I3077,4.41,Fail
+586,Electronics and Instrumentation,KAPTAN SOLANKI,24E3029,4.41,Fail
+588,Electronics and Telecommunication,AADITYA SINGH,24T3002,4.36,Fail
+589,Information Technology,PRIYANSHU BAMANIYA,24I3051,4.32,Fail
+589,Electronics and Telecommunication,RAGHAV PATEL,24T3155,4.32,Fail
+591,Electronics and Telecommunication,MUKUND MISHRA,24T3148,4.23,Fail
+591,Electronics and Instrumentation,ABHAY AHIRWAR,24E3003,4.23,Fail
+593,Electronics and Telecommunication,SAKSHI DHURWEY,24T3057,4.18,Fail
+593,Electronics and Telecommunication,VINAYAK AMJERIYA,24T3174,4.18,Fail
+593,Electronics and Instrumentation,HIMANCHAL MISHRA,24E3026,4.18,Fail
+596,Electronics and Telecommunication,SHIRISH BHARTIYA,24T3062,4.14,Fail
+597,Civil,ANKIT DHAKAD,24V3009,4.09,Fail
+598,Computer Science,AYUSH TIWARI,24C3017,4.05,Fail
+598,Computer Science,SHIVANI BADOLIA,24C3068,4.05,Fail
+598,Electronics and Telecommunication,PRASANG LARESHWAR,24T3152,4.05,Fail
+601,Computer Science,SAMARTH NEEMA,24C3158,4.0,Fail
+601,Information Technology,PARTH DANDIR,24I3146,4.0,Fail
+601,Electronics and Telecommunication,PARNAB MONDAL,24T3046,4.0,Fail
+604,Information Technology,KRUTIKA KURWETI,24I3031,3.95,Fail
+604,Civil,KARAN CHOUHAN,24V3037,3.95,Fail
+606,Electronics and Instrumentation,KARTIK SAHU,24E3030,3.91,Fail
+607,Civil,LAXIT KHATARKAR,24V3039,3.86,Fail
+607,Civil,LUCKY CHOUHAN,24V3040,3.86,Fail
+609,Computer Science,DEVANSH BANSAL,24C3119,3.73,Fail
+609,Electronics and Telecommunication,VIKRAM VERMA,24T3076,3.73,Fail
+609,Electronics and Instrumentation,ASHISH BARWAR,24E3006,3.73,Fail
+612,Computer Science,JITESH PRAJAPATI,24C3030,3.64,Fail
+612,Computer Science,VIJIT MANDLOI,24C3079,3.64,Fail
+614,Electronics and Instrumentation,OMKAR SINGH GOUD,24E3045,3.59,Fail
+615,Information Technology,RISHABH SOLANKI,24I3057,3.55,Fail
+615,Information Technology,SANDESH GEHALOT,24I3064,3.55,Fail
+617,Civil,MOHINI MANDLOI,24V3047,3.45,Fail
+618,Civil,AMAN MALVIYA,24V3005,3.41,Fail
+619,Electronics and Telecommunication,ROHAN JHARIA,24T3055,3.36,Fail
+620,Mechanical,PRIYANSHU GATHE,24M3056,3.33,Fail
+621,Computer Science,AJAY MAKWANE,24C3004,3.32,Fail
+622,Mechanical,NITIN VERMA,24M3048,3.24,Fail
+623,Computer Science,ABHIMANYU CHATTERJEE,24C3002,3.18,Fail
+623,Computer Science,VIKAS JAMRE,24C3080,3.18,Fail
+623,Electronics and Telecommunication,NITIN SINGH AIMA,24T3150,3.18,Fail
+626,Electronics and Telecommunication,MAYANK GUPTA,24T3145,3.14,Fail
+627,Mechanical,ANIRUDHHA BHALEKAR,24M3009,3.1,Fail
+628,Electronics and Telecommunication,JAYESH TAGORE,24T3029,3.09,Fail
+629,Electronics and Telecommunication,SUDHIR BOBDE,24T3066,3.05,Fail
+629,Electronics and Telecommunication,YOGESH KUMAR CHOUDHARY,24T3180,3.05,Fail
+631,Electronics and Telecommunication,ADITYA YADAV,24T3008,3.0,Fail
+632,Electronics and Instrumentation,GOURIY BUNDELA,24E3088,2.91,Fail
+633,Electronics and Telecommunication,LOKESH WAIKER,24T3140,2.82,Fail
+634,Electronics and Telecommunication,JATIN MESHRAM,24T3135,2.77,Fail
+635,Information Technology,DHANANJAY JAMRE,24I3126,2.73,Fail
+636,Mechanical,PIYUSH PRAJAPAT,24M3050,2.67,Fail
+637,Electronics and Telecommunication,PRADYUMY KULASTE,24T3047,2.64,Fail
+638,Electronics and Telecommunication,RAJ PAGARIYA,24T3157,2.55,Fail
+639,Mechanical,SANJAY CHOUHAN,24M3064,2.48,Fail
+640,Computer Science,ANIL KUMAR KOL,24C3008,2.41,Fail
+640,Civil,ARYAN RAJ,24V3013,2.41,Fail
+640,Civil,NIKITA INKULE,24V3050,2.41,Fail
+643,Mechanical,SAKSHAM GEHLOT,24M3079,2.38,Fail
+644,Computer Science,PRIYANSH VARYANI,24C3053,2.27,Fail
+645,Information Technology,GOURAV RAJ WASKEL,24I3131,2.18,Fail
+646,Electronics and Instrumentation,SATYAM DAHIYA,24E3067,2.09,Fail
+647,Electronics and Instrumentation,KAUSHIK SHARMA,24E3031,1.82,Fail
+648,Civil,SHIVAM SHARMA,24V3067,1.36,Fail
+649,Electronics and Instrumentation,NISHANT,24E3042,0.0,Fail
+649,Mechanical,YASHVARDHAN SONIYA,24M3078,0.0,Fail
