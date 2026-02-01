@@ -3,10 +3,10 @@
 This Python script scrapes SGPA data for a range of student roll numbers from a publicly available college result website.
 
 # What's New
-- 1. Added Lateral Entry
-- 2. Now it wont run for non exsisting sections
-- 3. fixed ranking system
-- 4. Updated the fileName
+- Added Lateral Entry
+- Now it wont run for non exsisting sections
+- fixed ranking system
+- Updated the fileName
 
 # Features
 - Generates a list of roll numbers
