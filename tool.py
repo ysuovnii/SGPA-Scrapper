@@ -3,6 +3,11 @@ from bs4 import BeautifulSoup
 import csv
 import time 
 
+RED = "\033[31m"
+YELLOW = "\033[33m"
+GREEN = "\033[32m"
+RESET = "\033[0m"
+
 session = requests.Session()
 session.headers.update({
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -57,7 +62,7 @@ def fetch(URL, branch, retries):
                     "cg": cg
                 }
 
-                print(f"{roll} {name} : {cg} {verdict}")
+                print(f"{GREEN}{roll} {name} : {cg} {verdict}{RESET}")
 
                 if verdict == "Fail":
                     student_fail.append(record)
@@ -67,14 +72,14 @@ def fetch(URL, branch, retries):
                 return  
 
         except requests.exceptions.Timeout:
-            print(f"Timeout attempt {attempt}: {URL}")
+            print(f"{YELLOW}Timeout attempt {attempt}: {URL}{RESET}")
             time.sleep(1)
 
         except Exception as e:
-            print(f"Error: {e} | URL: {URL}")
+            print(f"{RED}Error: {e} | URL: {URL}{RESET}")
             break  
 
-    print(f"Failed to fetch after {retries} attempts: {URL}")
+    print(f"{RED}Failed to fetch after {retries} attempts: {URL}{RESET}")
    
 def generateURL():
     total = len(branch_list) * sum(end - start for start, end in roll_range)
@@ -155,6 +160,7 @@ def write_csv(all_students):
 if __name__ == "__main__":
     start_time = time.time()
     generateURL()
+    generateURL_LE()
     print()
 
     all_students = rank_students()
