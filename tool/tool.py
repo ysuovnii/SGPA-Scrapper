@@ -40,7 +40,7 @@ branch_map = {
 def fetch(URL, branch, retries):
     for attempt in range(1, retries+1):
         try:
-            res = session.get(URL, timeout=5)
+            res = session.get(URL, timeout=5, verify=False)
             soup = BeautifulSoup(res.text, 'html.parser')
 
             nameTag = soup.find(string="Student Name")
